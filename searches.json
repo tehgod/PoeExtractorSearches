@@ -1,0 +1,163 @@
+{
+    "baseURL":"https://www.pathofexile.com/trade/search/Affliction/",
+    "endpoints":[
+        {
+            "tier":1,
+            "urlEndpoint":"nZwkKvvC0",
+            "annoitments":[
+                "Whispers of Doom",
+                "All Towers in range of your Empowering Towers have 50% chance to deal Double Damage"
+            ]
+        },
+        {
+            "tier":2,
+            "urlEndpoint":"kwW9pJQc5",
+            "annoitments":[
+                "Prismatic Skin",
+                "Charisma",
+                "Crusader",
+                "Your Seismic Towers have 100% increased length and range of Cascades"
+            ]
+        },
+        {
+            "tier":3,
+            "urlEndpoint":"y2XMPDgiR",
+            "annoitments":[
+                "Tenacity",
+                "Spiritual Aid",
+                "Steadfast",
+                "Soul of Steel",
+                "Anointed Flesh",
+                "Unnatural Calm",
+                "Golem's Blood",
+                "Panopticon",
+                "Tranquility",
+                "Aspect of Stone"
+            ]
+        },
+        {
+            "tier":4,
+            "urlEndpoint":"paKrqqbt0",
+            "annoitments":[
+                "Your Fireball Towers fire an additional 8 ProjectilesYour Fireball Towers Projectiles fire in a circle",
+                "Tribal Fury",
+                "Your Shock Nova Towers have 30% increased area of effect per repeatYour Shock Nova Towers repeats 2 additional Times",
+                "Revenge of the Hunted"
+            ]
+        },
+        {
+            "tier":5,
+            "urlEndpoint":"YwyZjJvTY",
+            "annoitments":[
+                "Sovereignty",
+                "Natural Authority",
+                "Heart of the Warrior",
+                "Golem Commander",
+                "Essence Surge",
+                "Ravenous Horde",
+                "Vitality Void",
+                "Void Barrier",
+                "Ethereal Feast",
+                "Your Towers deal 10% increased Damage per Type of Tower Active",
+                "Your Imbuing Towers also grant 50% increased Damage",
+                "Your Summoning Towers summon 2 additional Minions",
+                "Your Smothering Towers also grant 10% reduced Damage",
+                "Your Stone Gaze Towers have 20% reduced Petrification Delay",
+                "Your Temporal Towers also grant you 20% increased action speed",
+                "Your Seismic Towers have an additional Cascade",
+                "Your Arc Towers have 3 additional chains",
+                "Your Lightning Storm Towers have 25% increased explosion Area of Effect",
+                "Your Shock Nova Towers have 25% increased effect of Shock"
+            ]
+        },
+        {
+            "tier":6,
+            "urlEndpoint":"r9bRngmCQ",
+            "annoitments":[
+                "Barbarism",
+                "Assassination",
+                "Lust for Carnage",
+                "Dismembering",
+                "Skittering Runes",
+                "Mana Flows",
+                "Foresight",
+                "Dirty Techniques",
+                "Art of the Gladiator",
+                "Heart of Ice",
+                "Master of Blades",
+                "Inveterate"
+            ]
+        },
+        {
+            "tier":7,
+            "urlEndpoint":"9BanEqRCK",
+            "annoitments":[
+                "Savage Wounds",
+                "Arcane Capacitor",
+                "Endurance",
+                "Faith and Steel",
+                "Discipline and Training",
+                "Measured Fury",
+                "Savagery",
+                "Reflexes",
+                "Deadly Inclinations",
+                "Season of Ice"
+            ]
+        },
+        {
+            "tier":8,
+            "urlEndpoint":"awVg48jUe",
+            "annoitments":[
+                "Cleansed Thoughts",
+                "Persistence",
+                "Swift Venoms",
+                "Disemboweling",
+                "Spiritual Command",
+                "Arcane Expanse",
+                "Born to Fight",
+                "Quick Recovery",
+                "Claws of the Falcon",
+                "Infused",
+                "Lava Lash",
+                "Druidic Rite",
+                "Heart of Oak",
+                "Disciple of the Slaughter",
+                "Breath of Flames",
+                "Bloodless",
+                "Influence",
+                "Doom Cast",
+                "Thick Skin",
+                "Heart of Thunder",
+                "Frenetic",
+                "Breath of Rime",
+                "Watchtowers",
+                "Instability",
+                "Survivalist",
+                "Arcane Chemistry",
+                "Brutal Blade",
+                "Fingers of Frost",
+                "Breath of Lightning",
+                "Heart and Soul",
+                "Written in Blood",
+                "Insightfulness",
+                "Nightstalker",
+                "Enduring Bond",
+                "Growth and Decay",
+                "Settling Ash",
+                "Sanctum of Thought",
+                "Goliath",
+                "Champion of the Cause",
+                "Veteran Soldier",
+                "Constitution",
+                "Heart of Flame",
+                "Presage",
+                "Steeped in the Profane",
+                "Wasting",
+                "Snowforged",
+                "Arcane Sanctuary",
+                "Atrophy",
+                "Trick Shot"
+            ]
+        }
+    ]
+}

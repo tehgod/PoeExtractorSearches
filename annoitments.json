@@ -1,0 +1,3098 @@
+[
+    {
+        "Oil #1": "Black Oil",
+        "Oil #2": "Golden Oil",
+        "Oil #3": "Golden Oil",
+        "Outcome": "Crusader"
+    },
+    {
+        "Oil #1": "Crimson Oil",
+        "Oil #2": "Golden Oil",
+        "Oil #3": "Golden Oil",
+        "Outcome": "Tenacity"
+    },
+    {
+        "Oil #1": "Sepia Oil",
+        "Oil #2": "Teal Oil",
+        "Oil #3": "Black Oil",
+        "Outcome": "Divine Judgement"
+    },
+    {
+        "Oil #1": "Amber Oil",
+        "Oil #2": "Amber Oil",
+        "Oil #3": "Black Oil",
+        "Outcome": "Divine Fury"
+    },
+    {
+        "Oil #1": "Amber Oil",
+        "Oil #2": "Amber Oil",
+        "Oil #3": "Opalescent Oil",
+        "Outcome": "Divine Wrath"
+    },
+    {
+        "Oil #1": "Clear Oil",
+        "Oil #2": "Sepia Oil",
+        "Oil #3": "Silver Oil",
+        "Outcome": "Blade Master"
+    },
+    {
+        "Oil #1": "Verdant Oil",
+        "Oil #2": "Teal Oil",
+        "Oil #3": "Violet Oil",
+        "Outcome": "Razor's Edge"
+    },
+    {
+        "Oil #1": "Sepia Oil",
+        "Oil #2": "Amber Oil",
+        "Oil #3": "Black Oil",
+        "Outcome": "Cleaving"
+    },
+    {
+        "Oil #1": "Azure Oil",
+        "Oil #2": "Azure Oil",
+        "Oil #3": "Azure Oil",
+        "Outcome": "Slaughter"
+    },
+    {
+        "Oil #1": "Clear Oil",
+        "Oil #2": "Violet Oil",
+        "Oil #3": "Golden Oil",
+        "Outcome": "Persistence"
+    },
+    {
+        "Oil #1": "Azure Oil",
+        "Oil #2": "Azure Oil",
+        "Oil #3": "Violet Oil",
+        "Outcome": "Smashing Strikes"
+    },
+    {
+        "Oil #1": "Clear Oil",
+        "Oil #2": "Amber Oil",
+        "Oil #3": "Silver Oil",
+        "Outcome": "Counterweight"
+    },
+    {
+        "Oil #1": "Amber Oil",
+        "Oil #2": "Teal Oil",
+        "Oil #3": "Crimson Oil",
+        "Outcome": "Whirling Barrier"
+    },
+    {
+        "Oil #1": "Verdant Oil",
+        "Oil #2": "Azure Oil",
+        "Oil #3": "Azure Oil",
+        "Outcome": "Bone Breaker"
+    },
+    {
+        "Oil #1": "Clear Oil",
+        "Oil #2": "Black Oil",
+        "Oil #3": "Opalescent Oil",
+        "Outcome": "Skull Cracking"
+    },
+    {
+        "Oil #1": "Verdant Oil",
+        "Oil #2": "Black Oil",
+        "Oil #3": "Black Oil",
+        "Outcome": "Righteous Army"
+    },
+    {
+        "Oil #1": "Sepia Oil",
+        "Oil #2": "Violet Oil",
+        "Oil #3": "Crimson Oil",
+        "Outcome": "Redemption"
+    },
+    {
+        "Oil #1": "Silver Oil",
+        "Oil #2": "Silver Oil",
+        "Oil #3": "Golden Oil",
+        "Outcome": "Spiritual Aid"
+    },
+    {
+        "Oil #1": "Verdant Oil",
+        "Oil #2": "Violet Oil",
+        "Oil #3": "Black Oil",
+        "Outcome": "Aggressive Bastion"
+    },
+    {
+        "Oil #1": "Amber Oil",
+        "Oil #2": "Indigo Oil",
+        "Oil #3": "Violet Oil",
+        "Outcome": "Surge of Vigour"
+    },
+    {
+        "Oil #1": "Indigo Oil",
+        "Oil #2": "Indigo Oil",
+        "Oil #3": "Indigo Oil",
+        "Outcome": "Powerful Bond"
+    },
+    {
+        "Oil #1": "Clear Oil",
+        "Oil #2": "Sepia Oil",
+        "Oil #3": "Crimson Oil",
+        "Outcome": "Galvanic Hammer"
+    },
+    {
+        "Oil #1": "Clear Oil",
+        "Oil #2": "Violet Oil",
+        "Oil #3": "Violet Oil",
+        "Outcome": "Pain Forger"
+    },
+    {
+        "Oil #1": "Teal Oil",
+        "Oil #2": "Black Oil",
+        "Oil #3": "Golden Oil",
+        "Outcome": "Savage Wounds"
+    },
+    {
+        "Oil #1": "Teal Oil",
+        "Oil #2": "Indigo Oil",
+        "Oil #3": "Crimson Oil",
+        "Outcome": "Harpooner"
+    },
+    {
+        "Oil #1": "Clear Oil",
+        "Oil #2": "Clear Oil",
+        "Oil #3": "Golden Oil",
+        "Outcome": "Lava Lash"
+    },
+    {
+        "Oil #1": "Clear Oil",
+        "Oil #2": "Indigo Oil",
+        "Oil #3": "Golden Oil",
+        "Outcome": "Settling Ash"
+    },
+    {
+        "Oil #1": "Teal Oil",
+        "Oil #2": "Indigo Oil",
+        "Oil #3": "Silver Oil",
+        "Outcome": "Concussive Force"
+    },
+    {
+        "Oil #1": "Sepia Oil",
+        "Oil #2": "Amber Oil",
+        "Oil #3": "Violet Oil",
+        "Outcome": "Shamanistic Fury"
+    },
+    {
+        "Oil #1": "Verdant Oil",
+        "Oil #2": "Violet Oil",
+        "Oil #3": "Golden Oil",
+        "Outcome": "Disemboweling"
+    },
+    {
+        "Oil #1": "Amber Oil",
+        "Oil #2": "Verdant Oil",
+        "Oil #3": "Crimson Oil",
+        "Outcome": "Primal Manifestation"
+    },
+    {
+        "Oil #1": "Violet Oil",
+        "Oil #2": "Black Oil",
+        "Oil #3": "Golden Oil",
+        "Outcome": "Arcane Capacitor"
+    },
+    {
+        "Oil #1": "Verdant Oil",
+        "Oil #2": "Opalescent Oil",
+        "Oil #3": "Silver Oil",
+        "Outcome": "Hearty"
+    },
+    {
+        "Oil #1": "Opalescent Oil",
+        "Oil #2": "Opalescent Oil",
+        "Oil #3": "Golden Oil",
+        "Outcome": "Barbarism"
+    },
+    {
+        "Oil #1": "Black Oil",
+        "Oil #2": "Black Oil",
+        "Oil #3": "Silver Oil",
+        "Outcome": "Stamina"
+    },
+    {
+        "Oil #1": "Amber Oil",
+        "Oil #2": "Teal Oil",
+        "Oil #3": "Opalescent Oil",
+        "Outcome": "Juggernaut"
+    },
+    {
+        "Oil #1": "Teal Oil",
+        "Oil #2": "Azure Oil",
+        "Oil #3": "Azure Oil",
+        "Outcome": "Cannibalistic Rite"
+    },
+    {
+        "Oil #1": "Clear Oil",
+        "Oil #2": "Black Oil",
+        "Oil #3": "Golden Oil",
+        "Outcome": "Endurance"
+    },
+    {
+        "Oil #1": "Crimson Oil",
+        "Oil #2": "Black Oil",
+        "Oil #3": "Silver Oil",
+        "Outcome": "Overcharge"
+    },
+    {
+        "Oil #1": "Azure Oil",
+        "Oil #2": "Azure Oil",
+        "Oil #3": "Golden Oil",
+        "Outcome": "Sanctum of Thought"
+    },
+    {
+        "Oil #1": "Sepia Oil",
+        "Oil #2": "Black Oil",
+        "Oil #3": "Golden Oil",
+        "Outcome": "Faith and Steel"
+    },
+    {
+        "Oil #1": "Crimson Oil",
+        "Oil #2": "Crimson Oil",
+        "Oil #3": "Silver Oil",
+        "Outcome": "Devotion"
+    },
+    {
+        "Oil #1": "Verdant Oil",
+        "Oil #2": "Indigo Oil",
+        "Oil #3": "Silver Oil",
+        "Outcome": "Vanquisher"
+    },
+    {
+        "Oil #1": "Amber Oil",
+        "Oil #2": "Teal Oil",
+        "Oil #3": "Silver Oil",
+        "Outcome": "Holy Fire"
+    },
+    {
+        "Oil #1": "Silver Oil",
+        "Oil #2": "Silver Oil",
+        "Oil #3": "Silver Oil",
+        "Outcome": "Sovereignty"
+    },
+    {
+        "Oil #1": "Crimson Oil",
+        "Oil #2": "Opalescent Oil",
+        "Oil #3": "Silver Oil",
+        "Outcome": "Inexorable"
+    },
+    {
+        "Oil #1": "Azure Oil",
+        "Oil #2": "Crimson Oil",
+        "Oil #3": "Silver Oil",
+        "Outcome": "Runesmith"
+    },
+    {
+        "Oil #1": "Sepia Oil",
+        "Oil #2": "Silver Oil",
+        "Oil #3": "Golden Oil",
+        "Outcome": "Natural Authority"
+    },
+    {
+        "Oil #1": "Verdant Oil",
+        "Oil #2": "Verdant Oil",
+        "Oil #3": "Indigo Oil",
+        "Outcome": "Escalation"
+    },
+    {
+        "Oil #1": "Clear Oil",
+        "Oil #2": "Black Oil",
+        "Oil #3": "Silver Oil",
+        "Outcome": "Purity of Flesh"
+    },
+    {
+        "Oil #1": "Teal Oil",
+        "Oil #2": "Crimson Oil",
+        "Oil #3": "Silver Oil",
+        "Outcome": "Blunt Trauma"
+    },
+    {
+        "Oil #1": "Teal Oil",
+        "Oil #2": "Opalescent Oil",
+        "Oil #3": "Opalescent Oil",
+        "Outcome": "One with the River"
+    },
+    {
+        "Oil #1": "Opalescent Oil",
+        "Oil #2": "Opalescent Oil",
+        "Oil #3": "Opalescent Oil",
+        "Outcome": "Tireless"
+    },
+    {
+        "Oil #1": "Teal Oil",
+        "Oil #2": "Opalescent Oil",
+        "Oil #3": "Golden Oil",
+        "Outcome": "Lust for Carnage"
+    },
+    {
+        "Oil #1": "Verdant Oil",
+        "Oil #2": "Verdant Oil",
+        "Oil #3": "Azure Oil",
+        "Outcome": "Arsonist"
+    },
+    {
+        "Oil #1": "Amber Oil",
+        "Oil #2": "Black Oil",
+        "Oil #3": "Black Oil",
+        "Outcome": "Magmatic Strikes"
+    },
+    {
+        "Oil #1": "Amber Oil",
+        "Oil #2": "Azure Oil",
+        "Oil #3": "Crimson Oil",
+        "Outcome": "Utmost Might"
+    },
+    {
+        "Oil #1": "Azure Oil",
+        "Oil #2": "Black Oil",
+        "Oil #3": "Silver Oil",
+        "Outcome": "Arcane Potency"
+    },
+    {
+        "Oil #1": "Verdant Oil",
+        "Oil #2": "Azure Oil",
+        "Oil #3": "Black Oil",
+        "Outcome": "Safeguard"
+    },
+    {
+        "Oil #1": "Sepia Oil",
+        "Oil #2": "Sepia Oil",
+        "Oil #3": "Indigo Oil",
+        "Outcome": "Cauterisation"
+    },
+    {
+        "Oil #1": "Verdant Oil",
+        "Oil #2": "Azure Oil",
+        "Oil #3": "Opalescent Oil",
+        "Outcome": "Explosive Impact"
+    },
+    {
+        "Oil #1": "Verdant Oil",
+        "Oil #2": "Violet Oil",
+        "Oil #3": "Violet Oil",
+        "Outcome": "Spinecruncher"
+    },
+    {
+        "Oil #1": "Teal Oil",
+        "Oil #2": "Azure Oil",
+        "Oil #3": "Crimson Oil",
+        "Outcome": "Fearsome Force"
+    },
+    {
+        "Oil #1": "Sepia Oil",
+        "Oil #2": "Sepia Oil",
+        "Oil #3": "Sepia Oil",
+        "Outcome": "Expertise"
+    },
+    {
+        "Oil #1": "Clear Oil",
+        "Oil #2": "Sepia Oil",
+        "Oil #3": "Verdant Oil",
+        "Outcome": "Ancestral Knowledge"
+    },
+    {
+        "Oil #1": "Verdant Oil",
+        "Oil #2": "Violet Oil",
+        "Oil #3": "Crimson Oil",
+        "Outcome": "Butchery"
+    },
+    {
+        "Oil #1": "Clear Oil",
+        "Oil #2": "Azure Oil",
+        "Oil #3": "Opalescent Oil",
+        "Outcome": "Strong Arm"
+    },
+    {
+        "Oil #1": "Clear Oil",
+        "Oil #2": "Teal Oil",
+        "Oil #3": "Crimson Oil",
+        "Outcome": "Warrior Training"
+    },
+    {
+        "Oil #1": "Clear Oil",
+        "Oil #2": "Sepia Oil",
+        "Oil #3": "Teal Oil",
+        "Outcome": "Spiked Bulwark"
+    },
+    {
+        "Oil #1": "Clear Oil",
+        "Oil #2": "Verdant Oil",
+        "Oil #3": "Teal Oil",
+        "Outcome": "Robust"
+    },
+    {
+        "Oil #1": "Sepia Oil",
+        "Oil #2": "Teal Oil",
+        "Oil #3": "Opalescent Oil",
+        "Outcome": "Diamond Skin"
+    },
+    {
+        "Oil #1": "Amber Oil",
+        "Oil #2": "Teal Oil",
+        "Oil #3": "Teal Oil",
+        "Outcome": "Sanctuary"
+    },
+    {
+        "Oil #1": "Teal Oil",
+        "Oil #2": "Teal Oil",
+        "Oil #3": "Azure Oil",
+        "Outcome": "Steelwood Stance"
+    },
+    {
+        "Oil #1": "Verdant Oil",
+        "Oil #2": "Black Oil",
+        "Oil #3": "Opalescent Oil",
+        "Outcome": "Blacksmith's Clout"
+    },
+    {
+        "Oil #1": "Verdant Oil",
+        "Oil #2": "Teal Oil",
+        "Oil #3": "Indigo Oil",
+        "Outcome": "Divine Fervour"
+    },
+    {
+        "Oil #1": "Azure Oil",
+        "Oil #2": "Azure Oil",
+        "Oil #3": "Crimson Oil",
+        "Outcome": "Holy Dominion"
+    },
+    {
+        "Oil #1": "Violet Oil",
+        "Oil #2": "Crimson Oil",
+        "Oil #3": "Crimson Oil",
+        "Outcome": "Light of Divinity"
+    },
+    {
+        "Oil #1": "Clear Oil",
+        "Oil #2": "Amber Oil",
+        "Oil #3": "Indigo Oil",
+        "Outcome": "Harvester of Foes"
+    },
+    {
+        "Oil #1": "Teal Oil",
+        "Oil #2": "Violet Oil",
+        "Oil #3": "Opalescent Oil",
+        "Outcome": "Dark Arts"
+    },
+    {
+        "Oil #1": "Clear Oil",
+        "Oil #2": "Indigo Oil",
+        "Oil #3": "Indigo Oil",
+        "Outcome": "Empowered Bond"
+    },
+    {
+        "Oil #1": "Sepia Oil",
+        "Oil #2": "Indigo Oil",
+        "Oil #3": "Indigo Oil",
+        "Outcome": "Trial of the Faith"
+    },
+    {
+        "Oil #1": "Sepia Oil",
+        "Oil #2": "Sepia Oil",
+        "Oil #3": "Golden Oil",
+        "Outcome": "Spiritual Command"
+    },
+    {
+        "Oil #1": "Amber Oil",
+        "Oil #2": "Azure Oil",
+        "Oil #3": "Opalescent Oil",
+        "Outcome": "Amplify"
+    },
+    {
+        "Oil #1": "Sepia Oil",
+        "Oil #2": "Sepia Oil",
+        "Oil #3": "Teal Oil",
+        "Outcome": "Righteous Decree"
+    },
+    {
+        "Oil #1": "Amber Oil",
+        "Oil #2": "Crimson Oil",
+        "Oil #3": "Golden Oil",
+        "Outcome": "Bloodless"
+    },
+    {
+        "Oil #1": "Sepia Oil",
+        "Oil #2": "Golden Oil",
+        "Oil #3": "Golden Oil",
+        "Outcome": "Steadfast"
+    },
+    {
+        "Oil #1": "Sepia Oil",
+        "Oil #2": "Amber Oil",
+        "Oil #3": "Golden Oil",
+        "Outcome": "Goliath"
+    },
+    {
+        "Oil #1": "Teal Oil",
+        "Oil #2": "Indigo Oil",
+        "Oil #3": "Opalescent Oil",
+        "Outcome": "Deep Breaths"
+    },
+    {
+        "Oil #1": "Verdant Oil",
+        "Oil #2": "Indigo Oil",
+        "Oil #3": "Indigo Oil",
+        "Outcome": "Righteous Fury"
+    },
+    {
+        "Oil #1": "Clear Oil",
+        "Oil #2": "Verdant Oil",
+        "Oil #3": "Black Oil",
+        "Outcome": "Combat Stamina"
+    },
+    {
+        "Oil #1": "Sepia Oil",
+        "Oil #2": "Sepia Oil",
+        "Oil #3": "Verdant Oil",
+        "Outcome": "Fending"
+    },
+    {
+        "Oil #1": "Clear Oil",
+        "Oil #2": "Crimson Oil",
+        "Oil #3": "Opalescent Oil",
+        "Outcome": "Retribution"
+    },
+    {
+        "Oil #1": "Black Oil",
+        "Oil #2": "Silver Oil",
+        "Oil #3": "Silver Oil",
+        "Outcome": "Discipline and Training"
+    },
+    {
+        "Oil #1": "Sepia Oil",
+        "Oil #2": "Sepia Oil",
+        "Oil #3": "Crimson Oil",
+        "Outcome": "Precision"
+    },
+    {
+        "Oil #1": "Azure Oil",
+        "Oil #2": "Azure Oil",
+        "Oil #3": "Black Oil",
+        "Outcome": "Sanctity"
+    },
+    {
+        "Oil #1": "Violet Oil",
+        "Oil #2": "Violet Oil",
+        "Oil #3": "Golden Oil",
+        "Outcome": "Born to Fight"
+    },
+    {
+        "Oil #1": "Violet Oil",
+        "Oil #2": "Silver Oil",
+        "Oil #3": "Golden Oil",
+        "Outcome": "Heart of the Warrior"
+    },
+    {
+        "Oil #1": "Verdant Oil",
+        "Oil #2": "Verdant Oil",
+        "Oil #3": "Opalescent Oil",
+        "Outcome": "Versatility"
+    },
+    {
+        "Oil #1": "Teal Oil",
+        "Oil #2": "Teal Oil",
+        "Oil #3": "Black Oil",
+        "Outcome": "Warrior's Blood"
+    },
+    {
+        "Oil #1": "Clear Oil",
+        "Oil #2": "Teal Oil",
+        "Oil #3": "Black Oil",
+        "Outcome": "Arcane Guarding"
+    },
+    {
+        "Oil #1": "Sepia Oil",
+        "Oil #2": "Crimson Oil",
+        "Oil #3": "Black Oil",
+        "Outcome": "Storm Weaver"
+    },
+    {
+        "Oil #1": "Teal Oil",
+        "Oil #2": "Azure Oil",
+        "Oil #3": "Violet Oil",
+        "Outcome": "Sacrifice"
+    },
+    {
+        "Oil #1": "Opalescent Oil",
+        "Oil #2": "Silver Oil",
+        "Oil #3": "Golden Oil",
+        "Outcome": "Tribal Fury"
+    },
+    {
+        "Oil #1": "Amber Oil",
+        "Oil #2": "Azure Oil",
+        "Oil #3": "Violet Oil",
+        "Outcome": "Kinetic Impacts"
+    },
+    {
+        "Oil #1": "Indigo Oil",
+        "Oil #2": "Indigo Oil",
+        "Oil #3": "Crimson Oil",
+        "Outcome": "Unfaltering"
+    },
+    {
+        "Oil #1": "Azure Oil",
+        "Oil #2": "Black Oil",
+        "Oil #3": "Opalescent Oil",
+        "Outcome": "Serpent Stance"
+    },
+    {
+        "Oil #1": "Azure Oil",
+        "Oil #2": "Black Oil",
+        "Oil #3": "Black Oil",
+        "Outcome": "Gravepact"
+    },
+    {
+        "Oil #1": "Crimson Oil",
+        "Oil #2": "Black Oil",
+        "Oil #3": "Opalescent Oil",
+        "Outcome": "Defiled Forces"
+    },
+    {
+        "Oil #1": "Clear Oil",
+        "Oil #2": "Golden Oil",
+        "Oil #3": "Golden Oil",
+        "Outcome": "Soul of Steel"
+    },
+    {
+        "Oil #1": "Black Oil",
+        "Oil #2": "Black Oil",
+        "Oil #3": "Opalescent Oil",
+        "Outcome": "Way of the Warrior"
+    },
+    {
+        "Oil #1": "Clear Oil",
+        "Oil #2": "Teal Oil",
+        "Oil #3": "Indigo Oil",
+        "Outcome": "Invigorating Blaze"
+    },
+    {
+        "Oil #1": "Sepia Oil",
+        "Oil #2": "Azure Oil",
+        "Oil #3": "Silver Oil",
+        "Outcome": "Blade of Cunning"
+    },
+    {
+        "Oil #1": "Clear Oil",
+        "Oil #2": "Sepia Oil",
+        "Oil #3": "Sepia Oil",
+        "Outcome": "Agility"
+    },
+    {
+        "Oil #1": "Indigo Oil",
+        "Oil #2": "Violet Oil",
+        "Oil #3": "Crimson Oil",
+        "Outcome": "Bannerman"
+    },
+    {
+        "Oil #1": "Teal Oil",
+        "Oil #2": "Crimson Oil",
+        "Oil #3": "Golden Oil",
+        "Outcome": "Champion of the Cause"
+    },
+    {
+        "Oil #1": "Verdant Oil",
+        "Oil #2": "Teal Oil",
+        "Oil #3": "Black Oil",
+        "Outcome": "Enigmatic Reach"
+    },
+    {
+        "Oil #1": "Indigo Oil",
+        "Oil #2": "Golden Oil",
+        "Oil #3": "Golden Oil",
+        "Outcome": "Anointed Flesh"
+    },
+    {
+        "Oil #1": "Verdant Oil",
+        "Oil #2": "Verdant Oil",
+        "Oil #3": "Golden Oil",
+        "Outcome": "Insightfulness"
+    },
+    {
+        "Oil #1": "Clear Oil",
+        "Oil #2": "Amber Oil",
+        "Oil #3": "Amber Oil",
+        "Outcome": "Might"
+    },
+    {
+        "Oil #1": "Clear Oil",
+        "Oil #2": "Crimson Oil",
+        "Oil #3": "Silver Oil",
+        "Outcome": "Death Attunement"
+    },
+    {
+        "Oil #1": "Indigo Oil",
+        "Oil #2": "Violet Oil",
+        "Oil #3": "Silver Oil",
+        "Outcome": "Asylum"
+    },
+    {
+        "Oil #1": "Sepia Oil",
+        "Oil #2": "Sepia Oil",
+        "Oil #3": "Amber Oil",
+        "Outcome": "Proficiency"
+    },
+    {
+        "Oil #1": "Silver Oil",
+        "Oil #2": "Golden Oil",
+        "Oil #3": "Golden Oil",
+        "Outcome": "Prismatic Skin"
+    },
+    {
+        "Oil #1": "Clear Oil",
+        "Oil #2": "Amber Oil",
+        "Oil #3": "Opalescent Oil",
+        "Outcome": "Brinkmanship"
+    },
+    {
+        "Oil #1": "Clear Oil",
+        "Oil #2": "Clear Oil",
+        "Oil #3": "Opalescent Oil",
+        "Outcome": "Eagle Eye"
+    },
+    {
+        "Oil #1": "Sepia Oil",
+        "Oil #2": "Opalescent Oil",
+        "Oil #3": "Opalescent Oil",
+        "Outcome": "Prism Weave"
+    },
+    {
+        "Oil #1": "Clear Oil",
+        "Oil #2": "Black Oil",
+        "Oil #3": "Black Oil",
+        "Outcome": "Acrimony"
+    },
+    {
+        "Oil #1": "Sepia Oil",
+        "Oil #2": "Teal Oil",
+        "Oil #3": "Indigo Oil",
+        "Outcome": "Bastion Breaker"
+    },
+    {
+        "Oil #1": "Sepia Oil",
+        "Oil #2": "Amber Oil",
+        "Oil #3": "Amber Oil",
+        "Outcome": "Hard Knocks"
+    },
+    {
+        "Oil #1": "Amber Oil",
+        "Oil #2": "Azure Oil",
+        "Oil #3": "Azure Oil",
+        "Outcome": "Explosive Runes"
+    },
+    {
+        "Oil #1": "Amber Oil",
+        "Oil #2": "Verdant Oil",
+        "Oil #3": "Azure Oil",
+        "Outcome": "Executioner"
+    },
+    {
+        "Oil #1": "Clear Oil",
+        "Oil #2": "Teal Oil",
+        "Oil #3": "Opalescent Oil",
+        "Outcome": "Wrecking Ball"
+    },
+    {
+        "Oil #1": "Verdant Oil",
+        "Oil #2": "Golden Oil",
+        "Oil #3": "Golden Oil",
+        "Outcome": "Unnatural Calm"
+    },
+    {
+        "Oil #1": "Clear Oil",
+        "Oil #2": "Verdant Oil",
+        "Oil #3": "Azure Oil",
+        "Outcome": "Martial Experience"
+    },
+    {
+        "Oil #1": "Teal Oil",
+        "Oil #2": "Teal Oil",
+        "Oil #3": "Golden Oil",
+        "Outcome": "Quick Recovery"
+    },
+    {
+        "Oil #1": "Azure Oil",
+        "Oil #2": "Azure Oil",
+        "Oil #3": "Opalescent Oil",
+        "Outcome": "Heart of Darkness"
+    },
+    {
+        "Oil #1": "Crimson Oil",
+        "Oil #2": "Black Oil",
+        "Oil #3": "Black Oil",
+        "Outcome": "Corruption"
+    },
+    {
+        "Oil #1": "Sepia Oil",
+        "Oil #2": "Black Oil",
+        "Oil #3": "Black Oil",
+        "Outcome": "Last Rites"
+    },
+    {
+        "Oil #1": "Violet Oil",
+        "Oil #2": "Opalescent Oil",
+        "Oil #3": "Golden Oil",
+        "Outcome": "Dismembering"
+    },
+    {
+        "Oil #1": "Azure Oil",
+        "Oil #2": "Azure Oil",
+        "Oil #3": "Silver Oil",
+        "Outcome": "Bloodletting"
+    },
+    {
+        "Oil #1": "Violet Oil",
+        "Oil #2": "Violet Oil",
+        "Oil #3": "Silver Oil",
+        "Outcome": "Merciless Skewering"
+    },
+    {
+        "Oil #1": "Clear Oil",
+        "Oil #2": "Amber Oil",
+        "Oil #3": "Verdant Oil",
+        "Outcome": "Essence Infusion"
+    },
+    {
+        "Oil #1": "Verdant Oil",
+        "Oil #2": "Indigo Oil",
+        "Oil #3": "Violet Oil",
+        "Outcome": "Brink of Death"
+    },
+    {
+        "Oil #1": "Crimson Oil",
+        "Oil #2": "Crimson Oil",
+        "Oil #3": "Black Oil",
+        "Outcome": "Essence Extraction"
+    },
+    {
+        "Oil #1": "Amber Oil",
+        "Oil #2": "Teal Oil",
+        "Oil #3": "Indigo Oil",
+        "Outcome": "Inspiring Bond"
+    },
+    {
+        "Oil #1": "Clear Oil",
+        "Oil #2": "Sepia Oil",
+        "Oil #3": "Azure Oil",
+        "Outcome": "Dynamo"
+    },
+    {
+        "Oil #1": "Indigo Oil",
+        "Oil #2": "Violet Oil",
+        "Oil #3": "Black Oil",
+        "Outcome": "Brand Equity"
+    },
+    {
+        "Oil #1": "Black Oil",
+        "Oil #2": "Opalescent Oil",
+        "Oil #3": "Opalescent Oil",
+        "Outcome": "Crackling Speed"
+    },
+    {
+        "Oil #1": "Clear Oil",
+        "Oil #2": "Azure Oil",
+        "Oil #3": "Silver Oil",
+        "Outcome": "Shaman's Dominion"
+    },
+    {
+        "Oil #1": "Verdant Oil",
+        "Oil #2": "Teal Oil",
+        "Oil #3": "Crimson Oil",
+        "Outcome": "Hatchet Master"
+    },
+    {
+        "Oil #1": "Teal Oil",
+        "Oil #2": "Indigo Oil",
+        "Oil #3": "Golden Oil",
+        "Outcome": "Veteran Soldier"
+    },
+    {
+        "Oil #1": "Sepia Oil",
+        "Oil #2": "Verdant Oil",
+        "Oil #3": "Indigo Oil",
+        "Outcome": "Relentless"
+    },
+    {
+        "Oil #1": "Clear Oil",
+        "Oil #2": "Verdant Oil",
+        "Oil #3": "Golden Oil",
+        "Outcome": "Enduring Bond"
+    },
+    {
+        "Oil #1": "Amber Oil",
+        "Oil #2": "Crimson Oil",
+        "Oil #3": "Opalescent Oil",
+        "Outcome": "Command of Steel"
+    },
+    {
+        "Oil #1": "Sepia Oil",
+        "Oil #2": "Azure Oil",
+        "Oil #3": "Opalescent Oil",
+        "Outcome": "Admonisher"
+    },
+    {
+        "Oil #1": "Violet Oil",
+        "Oil #2": "Black Oil",
+        "Oil #3": "Silver Oil",
+        "Outcome": "Hematophagy"
+    },
+    {
+        "Oil #1": "Amber Oil",
+        "Oil #2": "Verdant Oil",
+        "Oil #3": "Black Oil",
+        "Outcome": "Rampart"
+    },
+    {
+        "Oil #1": "Amber Oil",
+        "Oil #2": "Indigo Oil",
+        "Oil #3": "Opalescent Oil",
+        "Outcome": "Seasoned Swordplay"
+    },
+    {
+        "Oil #1": "Sepia Oil",
+        "Oil #2": "Violet Oil",
+        "Oil #3": "Black Oil",
+        "Outcome": "Mental Rapidity"
+    },
+    {
+        "Oil #1": "Teal Oil",
+        "Oil #2": "Indigo Oil",
+        "Oil #3": "Black Oil",
+        "Outcome": "Forethought"
+    },
+    {
+        "Oil #1": "Sepia Oil",
+        "Oil #2": "Teal Oil",
+        "Oil #3": "Azure Oil",
+        "Outcome": "Dreamer"
+    },
+    {
+        "Oil #1": "Sepia Oil",
+        "Oil #2": "Crimson Oil",
+        "Oil #3": "Crimson Oil",
+        "Outcome": "Ash, Frost and Storm"
+    },
+    {
+        "Oil #1": "Teal Oil",
+        "Oil #2": "Violet Oil",
+        "Oil #3": "Golden Oil",
+        "Outcome": "Constitution"
+    },
+    {
+        "Oil #1": "Amber Oil",
+        "Oil #2": "Amber Oil",
+        "Oil #3": "Amber Oil",
+        "Outcome": "Path of the Warrior"
+    },
+    {
+        "Oil #1": "Clear Oil",
+        "Oil #2": "Sepia Oil",
+        "Oil #3": "Opalescent Oil",
+        "Outcome": "Berserking"
+    },
+    {
+        "Oil #1": "Black Oil",
+        "Oil #2": "Black Oil",
+        "Oil #3": "Black Oil",
+        "Outcome": "Disciple of the Forbidden"
+    },
+    {
+        "Oil #1": "Clear Oil",
+        "Oil #2": "Crimson Oil",
+        "Oil #3": "Crimson Oil",
+        "Outcome": "Shaper"
+    },
+    {
+        "Oil #1": "Teal Oil",
+        "Oil #2": "Black Oil",
+        "Oil #3": "Silver Oil",
+        "Outcome": "Cruel Preparation"
+    },
+    {
+        "Oil #1": "Amber Oil",
+        "Oil #2": "Black Oil",
+        "Oil #3": "Golden Oil",
+        "Outcome": "Measured Fury"
+    },
+    {
+        "Oil #1": "Opalescent Oil",
+        "Oil #2": "Silver Oil",
+        "Oil #3": "Silver Oil",
+        "Outcome": "Skittering Runes"
+    },
+    {
+        "Oil #1": "Violet Oil",
+        "Oil #2": "Crimson Oil",
+        "Oil #3": "Black Oil",
+        "Outcome": "Fire Walker"
+    },
+    {
+        "Oil #1": "Verdant Oil",
+        "Oil #2": "Violet Oil",
+        "Oil #3": "Opalescent Oil",
+        "Outcome": "Frost Walker"
+    },
+    {
+        "Oil #1": "Sepia Oil",
+        "Oil #2": "Sepia Oil",
+        "Oil #3": "Black Oil",
+        "Outcome": "Lightning Walker"
+    },
+    {
+        "Oil #1": "Teal Oil",
+        "Oil #2": "Golden Oil",
+        "Oil #3": "Golden Oil",
+        "Outcome": "Golem's Blood"
+    },
+    {
+        "Oil #1": "Sepia Oil",
+        "Oil #2": "Verdant Oil",
+        "Oil #3": "Teal Oil",
+        "Outcome": "Decay Ward"
+    },
+    {
+        "Oil #1": "Clear Oil",
+        "Oil #2": "Verdant Oil",
+        "Oil #3": "Violet Oil",
+        "Outcome": "Deep Thoughts"
+    },
+    {
+        "Oil #1": "Sepia Oil",
+        "Oil #2": "Sepia Oil",
+        "Oil #3": "Opalescent Oil",
+        "Outcome": "Potency of Will"
+    },
+    {
+        "Oil #1": "Verdant Oil",
+        "Oil #2": "Azure Oil",
+        "Oil #3": "Golden Oil",
+        "Outcome": "Breath of Flames"
+    },
+    {
+        "Oil #1": "Teal Oil",
+        "Oil #2": "Azure Oil",
+        "Oil #3": "Golden Oil",
+        "Outcome": "Heart of Flame"
+    },
+    {
+        "Oil #1": "Sepia Oil",
+        "Oil #2": "Verdant Oil",
+        "Oil #3": "Opalescent Oil",
+        "Outcome": "Destroyer"
+    },
+    {
+        "Oil #1": "Sepia Oil",
+        "Oil #2": "Verdant Oil",
+        "Oil #3": "Azure Oil",
+        "Outcome": "Battle Rouse"
+    },
+    {
+        "Oil #1": "Sepia Oil",
+        "Oil #2": "Opalescent Oil",
+        "Oil #3": "Silver Oil",
+        "Outcome": "Master of the Arena"
+    },
+    {
+        "Oil #1": "Sepia Oil",
+        "Oil #2": "Indigo Oil",
+        "Oil #3": "Opalescent Oil",
+        "Outcome": "Surveillance"
+    },
+    {
+        "Oil #1": "Amber Oil",
+        "Oil #2": "Golden Oil",
+        "Oil #3": "Golden Oil",
+        "Outcome": "Panopticon"
+    },
+    {
+        "Oil #1": "Clear Oil",
+        "Oil #2": "Amber Oil",
+        "Oil #3": "Teal Oil",
+        "Outcome": "Ironwood"
+    },
+    {
+        "Oil #1": "Verdant Oil",
+        "Oil #2": "Verdant Oil",
+        "Oil #3": "Violet Oil",
+        "Outcome": "Totemic Zeal"
+    },
+    {
+        "Oil #1": "Clear Oil",
+        "Oil #2": "Clear Oil",
+        "Oil #3": "Azure Oil",
+        "Outcome": "Cloth and Chain"
+    },
+    {
+        "Oil #1": "Azure Oil",
+        "Oil #2": "Violet Oil",
+        "Oil #3": "Black Oil",
+        "Outcome": "Adamant"
+    },
+    {
+        "Oil #1": "Amber Oil",
+        "Oil #2": "Indigo Oil",
+        "Oil #3": "Black Oil",
+        "Outcome": "Infused Flesh"
+    },
+    {
+        "Oil #1": "Violet Oil",
+        "Oil #2": "Violet Oil",
+        "Oil #3": "Violet Oil",
+        "Outcome": "Enigmatic Defence"
+    },
+    {
+        "Oil #1": "Amber Oil",
+        "Oil #2": "Teal Oil",
+        "Oil #3": "Black Oil",
+        "Outcome": "Defiance"
+    },
+    {
+        "Oil #1": "Azure Oil",
+        "Oil #2": "Violet Oil",
+        "Oil #3": "Golden Oil",
+        "Outcome": "Breath of Lightning"
+    },
+    {
+        "Oil #1": "Sepia Oil",
+        "Oil #2": "Azure Oil",
+        "Oil #3": "Golden Oil",
+        "Outcome": "Heart of Thunder"
+    },
+    {
+        "Oil #1": "Verdant Oil",
+        "Oil #2": "Silver Oil",
+        "Oil #3": "Silver Oil",
+        "Outcome": "Instability"
+    },
+    {
+        "Oil #1": "Azure Oil",
+        "Oil #2": "Golden Oil",
+        "Oil #3": "Golden Oil",
+        "Outcome": "Tranquility"
+    },
+    {
+        "Oil #1": "Clear Oil",
+        "Oil #2": "Verdant Oil",
+        "Oil #3": "Opalescent Oil",
+        "Outcome": "Blast Radius"
+    },
+    {
+        "Oil #1": "Clear Oil",
+        "Oil #2": "Clear Oil",
+        "Oil #3": "Black Oil",
+        "Outcome": "Annihilation"
+    },
+    {
+        "Oil #1": "Sepia Oil",
+        "Oil #2": "Teal Oil",
+        "Oil #3": "Teal Oil",
+        "Outcome": "Deep Wisdom"
+    },
+    {
+        "Oil #1": "Sepia Oil",
+        "Oil #2": "Crimson Oil",
+        "Oil #3": "Golden Oil",
+        "Outcome": "Heart and Soul"
+    },
+    {
+        "Oil #1": "Verdant Oil",
+        "Oil #2": "Crimson Oil",
+        "Oil #3": "Silver Oil",
+        "Outcome": "Lord of the Dead"
+    },
+    {
+        "Oil #1": "Clear Oil",
+        "Oil #2": "Crimson Oil",
+        "Oil #3": "Black Oil",
+        "Outcome": "Arcanist's Dominion"
+    },
+    {
+        "Oil #1": "Clear Oil",
+        "Oil #2": "Clear Oil",
+        "Oil #3": "Violet Oil",
+        "Outcome": "Practical Application"
+    },
+    {
+        "Oil #1": "Amber Oil",
+        "Oil #2": "Opalescent Oil",
+        "Oil #3": "Silver Oil",
+        "Outcome": "Mystic Talents"
+    },
+    {
+        "Oil #1": "Violet Oil",
+        "Oil #2": "Opalescent Oil",
+        "Oil #3": "Opalescent Oil",
+        "Outcome": "Bravery"
+    },
+    {
+        "Oil #1": "Clear Oil",
+        "Oil #2": "Opalescent Oil",
+        "Oil #3": "Golden Oil",
+        "Outcome": "Mana Flows"
+    },
+    {
+        "Oil #1": "Verdant Oil",
+        "Oil #2": "Opalescent Oil",
+        "Oil #3": "Golden Oil",
+        "Outcome": "Foresight"
+    },
+    {
+        "Oil #1": "Sepia Oil",
+        "Oil #2": "Amber Oil",
+        "Oil #3": "Verdant Oil",
+        "Outcome": "Path of the Savant"
+    },
+    {
+        "Oil #1": "Verdant Oil",
+        "Oil #2": "Teal Oil",
+        "Oil #3": "Azure Oil",
+        "Outcome": "Sentinel"
+    },
+    {
+        "Oil #1": "Violet Oil",
+        "Oil #2": "Crimson Oil",
+        "Oil #3": "Opalescent Oil",
+        "Outcome": "Disciple of the Unyielding"
+    },
+    {
+        "Oil #1": "Amber Oil",
+        "Oil #2": "Verdant Oil",
+        "Oil #3": "Golden Oil",
+        "Outcome": "Disciple of the Slaughter"
+    },
+    {
+        "Oil #1": "Crimson Oil",
+        "Oil #2": "Opalescent Oil",
+        "Oil #3": "Opalescent Oil",
+        "Outcome": "Vigour"
+    },
+    {
+        "Oil #1": "Crimson Oil",
+        "Oil #2": "Black Oil",
+        "Oil #3": "Golden Oil",
+        "Outcome": "Savagery"
+    },
+    {
+        "Oil #1": "Azure Oil",
+        "Oil #2": "Crimson Oil",
+        "Oil #3": "Black Oil",
+        "Outcome": "Dervish"
+    },
+    {
+        "Oil #1": "Amber Oil",
+        "Oil #2": "Opalescent Oil",
+        "Oil #3": "Golden Oil",
+        "Outcome": "Dirty Techniques"
+    },
+    {
+        "Oil #1": "Amber Oil",
+        "Oil #2": "Indigo Oil",
+        "Oil #3": "Golden Oil",
+        "Outcome": "Presage"
+    },
+    {
+        "Oil #1": "Amber Oil",
+        "Oil #2": "Teal Oil",
+        "Oil #3": "Azure Oil",
+        "Outcome": "Discord Artisan"
+    },
+    {
+        "Oil #1": "Teal Oil",
+        "Oil #2": "Teal Oil",
+        "Oil #3": "Teal Oil",
+        "Outcome": "Mystic Bulwark"
+    },
+    {
+        "Oil #1": "Clear Oil",
+        "Oil #2": "Azure Oil",
+        "Oil #3": "Azure Oil",
+        "Outcome": "Prodigal Perfection"
+    },
+    {
+        "Oil #1": "Amber Oil",
+        "Oil #2": "Violet Oil",
+        "Oil #3": "Black Oil",
+        "Outcome": "Revelry"
+    },
+    {
+        "Oil #1": "Indigo Oil",
+        "Oil #2": "Opalescent Oil",
+        "Oil #3": "Opalescent Oil",
+        "Outcome": "Window of Opportunity"
+    },
+    {
+        "Oil #1": "Clear Oil",
+        "Oil #2": "Amber Oil",
+        "Oil #3": "Black Oil",
+        "Outcome": "Exceptional Performance"
+    },
+    {
+        "Oil #1": "Verdant Oil",
+        "Oil #2": "Crimson Oil",
+        "Oil #3": "Opalescent Oil",
+        "Outcome": "Retaliation"
+    },
+    {
+        "Oil #1": "Clear Oil",
+        "Oil #2": "Sepia Oil",
+        "Oil #3": "Black Oil",
+        "Outcome": "Testudo"
+    },
+    {
+        "Oil #1": "Sepia Oil",
+        "Oil #2": "Opalescent Oil",
+        "Oil #3": "Golden Oil",
+        "Outcome": "Art of the Gladiator"
+    },
+    {
+        "Oil #1": "Amber Oil",
+        "Oil #2": "Silver Oil",
+        "Oil #3": "Silver Oil",
+        "Outcome": "Arcane Chemistry"
+    },
+    {
+        "Oil #1": "Teal Oil",
+        "Oil #2": "Silver Oil",
+        "Oil #3": "Silver Oil",
+        "Outcome": "Breath of Rime"
+    },
+    {
+        "Oil #1": "Crimson Oil",
+        "Oil #2": "Opalescent Oil",
+        "Oil #3": "Golden Oil",
+        "Outcome": "Heart of Ice"
+    },
+    {
+        "Oil #1": "Sepia Oil",
+        "Oil #2": "Sepia Oil",
+        "Oil #3": "Violet Oil",
+        "Outcome": "Potent Connections"
+    },
+    {
+        "Oil #1": "Verdant Oil",
+        "Oil #2": "Verdant Oil",
+        "Oil #3": "Teal Oil",
+        "Outcome": "Fury Bolts"
+    },
+    {
+        "Oil #1": "Amber Oil",
+        "Oil #2": "Amber Oil",
+        "Oil #3": "Teal Oil",
+        "Outcome": "Thrill Killer"
+    },
+    {
+        "Oil #1": "Amber Oil",
+        "Oil #2": "Verdant Oil",
+        "Oil #3": "Opalescent Oil",
+        "Outcome": "Titanic Impacts"
+    },
+    {
+        "Oil #1": "Indigo Oil",
+        "Oil #2": "Indigo Oil",
+        "Oil #3": "Silver Oil",
+        "Outcome": "Malicious Intent"
+    },
+    {
+        "Oil #1": "Verdant Oil",
+        "Oil #2": "Crimson Oil",
+        "Oil #3": "Crimson Oil",
+        "Outcome": "Arcane Focus"
+    },
+    {
+        "Oil #1": "Amber Oil",
+        "Oil #2": "Amber Oil",
+        "Oil #3": "Silver Oil",
+        "Outcome": "Arcane Will"
+    },
+    {
+        "Oil #1": "Clear Oil",
+        "Oil #2": "Indigo Oil",
+        "Oil #3": "Black Oil",
+        "Outcome": "Assured Strike"
+    },
+    {
+        "Oil #1": "Teal Oil",
+        "Oil #2": "Teal Oil",
+        "Oil #3": "Crimson Oil",
+        "Outcome": "Wandslinger"
+    },
+    {
+        "Oil #1": "Violet Oil",
+        "Oil #2": "Violet Oil",
+        "Oil #3": "Opalescent Oil",
+        "Outcome": "Hired Killer"
+    },
+    {
+        "Oil #1": "Azure Oil",
+        "Oil #2": "Crimson Oil",
+        "Oil #3": "Crimson Oil",
+        "Outcome": "Harrier"
+    },
+    {
+        "Oil #1": "Verdant Oil",
+        "Oil #2": "Black Oil",
+        "Oil #3": "Silver Oil",
+        "Outcome": "Profane Chemistry"
+    },
+    {
+        "Oil #1": "Clear Oil",
+        "Oil #2": "Verdant Oil",
+        "Oil #3": "Verdant Oil",
+        "Outcome": "Path of the Hunter"
+    },
+    {
+        "Oil #1": "Azure Oil",
+        "Oil #2": "Black Oil",
+        "Oil #3": "Golden Oil",
+        "Outcome": "Reflexes"
+    },
+    {
+        "Oil #1": "Violet Oil",
+        "Oil #2": "Opalescent Oil",
+        "Oil #3": "Silver Oil",
+        "Outcome": "Leadership"
+    },
+    {
+        "Oil #1": "Sepia Oil",
+        "Oil #2": "Amber Oil",
+        "Oil #3": "Silver Oil",
+        "Outcome": "Destructive Apparatus"
+    },
+    {
+        "Oil #1": "Azure Oil",
+        "Oil #2": "Silver Oil",
+        "Oil #3": "Golden Oil",
+        "Outcome": "Golem Commander"
+    },
+    {
+        "Oil #1": "Teal Oil",
+        "Oil #2": "Black Oil",
+        "Oil #3": "Black Oil",
+        "Outcome": "Ribcage Crusher"
+    },
+    {
+        "Oil #1": "Sepia Oil",
+        "Oil #2": "Verdant Oil",
+        "Oil #3": "Crimson Oil",
+        "Outcome": "Deadly Draw"
+    },
+    {
+        "Oil #1": "Sepia Oil",
+        "Oil #2": "Verdant Oil",
+        "Oil #3": "Violet Oil",
+        "Outcome": "Heavy Draw"
+    },
+    {
+        "Oil #1": "Clear Oil",
+        "Oil #2": "Teal Oil",
+        "Oil #3": "Violet Oil",
+        "Outcome": "Hardened Scars"
+    },
+    {
+        "Oil #1": "Sepia Oil",
+        "Oil #2": "Violet Oil",
+        "Oil #3": "Violet Oil",
+        "Outcome": "Grave Intentions"
+    },
+    {
+        "Oil #1": "Amber Oil",
+        "Oil #2": "Teal Oil",
+        "Oil #3": "Violet Oil",
+        "Outcome": "Vampirism"
+    },
+    {
+        "Oil #1": "Amber Oil",
+        "Oil #2": "Indigo Oil",
+        "Oil #3": "Silver Oil",
+        "Outcome": "Deflection"
+    },
+    {
+        "Oil #1": "Teal Oil",
+        "Oil #2": "Violet Oil",
+        "Oil #3": "Silver Oil",
+        "Outcome": "Swagger"
+    },
+    {
+        "Oil #1": "Teal Oil",
+        "Oil #2": "Crimson Oil",
+        "Oil #3": "Black Oil",
+        "Outcome": "True Strike"
+    },
+    {
+        "Oil #1": "Teal Oil",
+        "Oil #2": "Violet Oil",
+        "Oil #3": "Crimson Oil",
+        "Outcome": "Static Blows"
+    },
+    {
+        "Oil #1": "Teal Oil",
+        "Oil #2": "Silver Oil",
+        "Oil #3": "Golden Oil",
+        "Outcome": "Essence Surge"
+    },
+    {
+        "Oil #1": "Teal Oil",
+        "Oil #2": "Azure Oil",
+        "Oil #3": "Silver Oil",
+        "Outcome": "Gladiator's Perseverance"
+    },
+    {
+        "Oil #1": "Violet Oil",
+        "Oil #2": "Crimson Oil",
+        "Oil #3": "Silver Oil",
+        "Outcome": "Indomitable Army"
+    },
+    {
+        "Oil #1": "Verdant Oil",
+        "Oil #2": "Silver Oil",
+        "Oil #3": "Golden Oil",
+        "Outcome": "Ravenous Horde"
+    },
+    {
+        "Oil #1": "Clear Oil",
+        "Oil #2": "Silver Oil",
+        "Oil #3": "Golden Oil",
+        "Outcome": "Vitality Void"
+    },
+    {
+        "Oil #1": "Verdant Oil",
+        "Oil #2": "Verdant Oil",
+        "Oil #3": "Verdant Oil",
+        "Outcome": "Spirit Void"
+    },
+    {
+        "Oil #1": "Indigo Oil",
+        "Oil #2": "Crimson Oil",
+        "Oil #3": "Crimson Oil",
+        "Outcome": "Dance of Blades"
+    },
+    {
+        "Oil #1": "Amber Oil",
+        "Oil #2": "Crimson Oil",
+        "Oil #3": "Crimson Oil",
+        "Outcome": "Nimbleness"
+    },
+    {
+        "Oil #1": "Teal Oil",
+        "Oil #2": "Indigo Oil",
+        "Oil #3": "Violet Oil",
+        "Outcome": "Burning Brutality"
+    },
+    {
+        "Oil #1": "Teal Oil",
+        "Oil #2": "Black Oil",
+        "Oil #3": "Opalescent Oil",
+        "Outcome": "Master Sapper"
+    },
+    {
+        "Oil #1": "Clear Oil",
+        "Oil #2": "Opalescent Oil",
+        "Oil #3": "Silver Oil",
+        "Outcome": "Overcharged"
+    },
+    {
+        "Oil #1": "Verdant Oil",
+        "Oil #2": "Azure Oil",
+        "Oil #3": "Violet Oil",
+        "Outcome": "Forceful Skewering"
+    },
+    {
+        "Oil #1": "Sepia Oil",
+        "Oil #2": "Indigo Oil",
+        "Oil #3": "Golden Oil",
+        "Outcome": "Steeped in the Profane"
+    },
+    {
+        "Oil #1": "Clear Oil",
+        "Oil #2": "Opalescent Oil",
+        "Oil #3": "Opalescent Oil",
+        "Outcome": "Avatar of the Hunt"
+    },
+    {
+        "Oil #1": "Violet Oil",
+        "Oil #2": "Crimson Oil",
+        "Oil #3": "Golden Oil",
+        "Outcome": "Fingers of Frost"
+    },
+    {
+        "Oil #1": "Amber Oil",
+        "Oil #2": "Violet Oil",
+        "Oil #3": "Crimson Oil",
+        "Outcome": "Utmost Intellect"
+    },
+    {
+        "Oil #1": "Azure Oil",
+        "Oil #2": "Violet Oil",
+        "Oil #3": "Violet Oil",
+        "Outcome": "Courage"
+    },
+    {
+        "Oil #1": "Violet Oil",
+        "Oil #2": "Violet Oil",
+        "Oil #3": "Black Oil",
+        "Outcome": "Graceful Assault"
+    },
+    {
+        "Oil #1": "Sepia Oil",
+        "Oil #2": "Violet Oil",
+        "Oil #3": "Opalescent Oil",
+        "Outcome": "Melding"
+    },
+    {
+        "Oil #1": "Amber Oil",
+        "Oil #2": "Azure Oil",
+        "Oil #3": "Black Oil",
+        "Outcome": "Ambidexterity"
+    },
+    {
+        "Oil #1": "Clear Oil",
+        "Oil #2": "Violet Oil",
+        "Oil #3": "Opalescent Oil",
+        "Outcome": "Blade Barrier"
+    },
+    {
+        "Oil #1": "Amber Oil",
+        "Oil #2": "Azure Oil",
+        "Oil #3": "Silver Oil",
+        "Outcome": "Searing Heat"
+    },
+    {
+        "Oil #1": "Azure Oil",
+        "Oil #2": "Violet Oil",
+        "Oil #3": "Crimson Oil",
+        "Outcome": "Light Eater"
+    },
+    {
+        "Oil #1": "Amber Oil",
+        "Oil #2": "Verdant Oil",
+        "Oil #3": "Silver Oil",
+        "Outcome": "Tempest Blast"
+    },
+    {
+        "Oil #1": "Amber Oil",
+        "Oil #2": "Black Oil",
+        "Oil #3": "Opalescent Oil",
+        "Outcome": "Feller of Foes"
+    },
+    {
+        "Oil #1": "Clear Oil",
+        "Oil #2": "Clear Oil",
+        "Oil #3": "Amber Oil",
+        "Outcome": "Wisdom of the Glade"
+    },
+    {
+        "Oil #1": "Sepia Oil",
+        "Oil #2": "Amber Oil",
+        "Oil #3": "Teal Oil",
+        "Outcome": "Weathered Hunter"
+    },
+    {
+        "Oil #1": "Indigo Oil",
+        "Oil #2": "Indigo Oil",
+        "Oil #3": "Black Oil",
+        "Outcome": "Undertaker"
+    },
+    {
+        "Oil #1": "Teal Oil",
+        "Oil #2": "Teal Oil",
+        "Oil #3": "Opalescent Oil",
+        "Outcome": "Dazzling Strikes"
+    },
+    {
+        "Oil #1": "Clear Oil",
+        "Oil #2": "Clear Oil",
+        "Oil #3": "Sepia Oil",
+        "Outcome": "Beef"
+    },
+    {
+        "Oil #1": "Amber Oil",
+        "Oil #2": "Violet Oil",
+        "Oil #3": "Opalescent Oil",
+        "Outcome": "Throatseeker"
+    },
+    {
+        "Oil #1": "Clear Oil",
+        "Oil #2": "Clear Oil",
+        "Oil #3": "Clear Oil",
+        "Outcome": "Alacrity"
+    },
+    {
+        "Oil #1": "Teal Oil",
+        "Oil #2": "Teal Oil",
+        "Oil #3": "Violet Oil",
+        "Outcome": "Elder Power"
+    },
+    {
+        "Oil #1": "Sepia Oil",
+        "Oil #2": "Verdant Oil",
+        "Oil #3": "Verdant Oil",
+        "Outcome": "Fusillade"
+    },
+    {
+        "Oil #1": "Violet Oil",
+        "Oil #2": "Black Oil",
+        "Oil #3": "Black Oil",
+        "Outcome": "Disintegration"
+    },
+    {
+        "Oil #1": "Verdant Oil",
+        "Oil #2": "Indigo Oil",
+        "Oil #3": "Crimson Oil",
+        "Outcome": "Glacial Cage"
+    },
+    {
+        "Oil #1": "Clear Oil",
+        "Oil #2": "Indigo Oil",
+        "Oil #3": "Crimson Oil",
+        "Outcome": "Winter's Embrace"
+    },
+    {
+        "Oil #1": "Sepia Oil",
+        "Oil #2": "Black Oil",
+        "Oil #3": "Silver Oil",
+        "Outcome": "Crystal Skin"
+    },
+    {
+        "Oil #1": "Crimson Oil",
+        "Oil #2": "Crimson Oil",
+        "Oil #3": "Golden Oil",
+        "Outcome": "Arcane Expanse"
+    },
+    {
+        "Oil #1": "Crimson Oil",
+        "Oil #2": "Crimson Oil",
+        "Oil #3": "Opalescent Oil",
+        "Outcome": "Tolerance"
+    },
+    {
+        "Oil #1": "Clear Oil",
+        "Oil #2": "Sepia Oil",
+        "Oil #3": "Violet Oil",
+        "Outcome": "Freedom of Movement"
+    },
+    {
+        "Oil #1": "Clear Oil",
+        "Oil #2": "Clear Oil",
+        "Oil #3": "Teal Oil",
+        "Outcome": "Physique"
+    },
+    {
+        "Oil #1": "Amber Oil",
+        "Oil #2": "Amber Oil",
+        "Oil #3": "Crimson Oil",
+        "Outcome": "Bladedancer"
+    },
+    {
+        "Oil #1": "Sepia Oil",
+        "Oil #2": "Teal Oil",
+        "Oil #3": "Violet Oil",
+        "Outcome": "Efficient Explosives"
+    },
+    {
+        "Oil #1": "Teal Oil",
+        "Oil #2": "Azure Oil",
+        "Oil #3": "Black Oil",
+        "Outcome": "Finesse"
+    },
+    {
+        "Oil #1": "Opalescent Oil",
+        "Oil #2": "Golden Oil",
+        "Oil #3": "Golden Oil",
+        "Outcome": "Charisma"
+    },
+    {
+        "Oil #1": "Verdant Oil",
+        "Oil #2": "Black Oil",
+        "Oil #3": "Golden Oil",
+        "Outcome": "Deadly Inclinations"
+    },
+    {
+        "Oil #1": "Sepia Oil",
+        "Oil #2": "Indigo Oil",
+        "Oil #3": "Silver Oil",
+        "Outcome": "Marked for Death"
+    },
+    {
+        "Oil #1": "Sepia Oil",
+        "Oil #2": "Silver Oil",
+        "Oil #3": "Silver Oil",
+        "Outcome": "Wasting"
+    },
+    {
+        "Oil #1": "Azure Oil",
+        "Oil #2": "Crimson Oil",
+        "Oil #3": "Opalescent Oil",
+        "Outcome": "Dire Torment"
+    },
+    {
+        "Oil #1": "Verdant Oil",
+        "Oil #2": "Verdant Oil",
+        "Oil #3": "Crimson Oil",
+        "Outcome": "Farsight"
+    },
+    {
+        "Oil #1": "Verdant Oil",
+        "Oil #2": "Indigo Oil",
+        "Oil #3": "Black Oil",
+        "Outcome": "Conjured Barrier"
+    },
+    {
+        "Oil #1": "Violet Oil",
+        "Oil #2": "Silver Oil",
+        "Oil #3": "Silver Oil",
+        "Outcome": "Thick Skin"
+    },
+    {
+        "Oil #1": "Clear Oil",
+        "Oil #2": "Azure Oil",
+        "Oil #3": "Golden Oil",
+        "Outcome": "Cleansed Thoughts"
+    },
+    {
+        "Oil #1": "Teal Oil",
+        "Oil #2": "Azure Oil",
+        "Oil #3": "Opalescent Oil",
+        "Outcome": "Mysticism"
+    },
+    {
+        "Oil #1": "Amber Oil",
+        "Oil #2": "Amber Oil",
+        "Oil #3": "Violet Oil",
+        "Outcome": "Soul Siphon"
+    },
+    {
+        "Oil #1": "Clear Oil",
+        "Oil #2": "Verdant Oil",
+        "Oil #3": "Crimson Oil",
+        "Outcome": "Blast Waves"
+    },
+    {
+        "Oil #1": "Sepia Oil",
+        "Oil #2": "Sepia Oil",
+        "Oil #3": "Silver Oil",
+        "Outcome": "Fangs of Frost"
+    },
+    {
+        "Oil #1": "Azure Oil",
+        "Oil #2": "Violet Oil",
+        "Oil #3": "Opalescent Oil",
+        "Outcome": "Ballistics"
+    },
+    {
+        "Oil #1": "Clear Oil",
+        "Oil #2": "Crimson Oil",
+        "Oil #3": "Golden Oil",
+        "Outcome": "Druidic Rite"
+    },
+    {
+        "Oil #1": "Verdant Oil",
+        "Oil #2": "Crimson Oil",
+        "Oil #3": "Golden Oil",
+        "Outcome": "Heart of Oak"
+    },
+    {
+        "Oil #1": "Sepia Oil",
+        "Oil #2": "Azure Oil",
+        "Oil #3": "Black Oil",
+        "Outcome": "Primal Spirit"
+    },
+    {
+        "Oil #1": "Verdant Oil",
+        "Oil #2": "Verdant Oil",
+        "Oil #3": "Black Oil",
+        "Outcome": "Trickery"
+    },
+    {
+        "Oil #1": "Amber Oil",
+        "Oil #2": "Crimson Oil",
+        "Oil #3": "Black Oil",
+        "Outcome": "Coordination"
+    },
+    {
+        "Oil #1": "Teal Oil",
+        "Oil #2": "Indigo Oil",
+        "Oil #3": "Indigo Oil",
+        "Outcome": "Excess Sustenance"
+    },
+    {
+        "Oil #1": "Sepia Oil",
+        "Oil #2": "Black Oil",
+        "Oil #3": "Opalescent Oil",
+        "Outcome": "Adder's Touch"
+    },
+    {
+        "Oil #1": "Sepia Oil",
+        "Oil #2": "Amber Oil",
+        "Oil #3": "Indigo Oil",
+        "Outcome": "Replenishing Remedies"
+    },
+    {
+        "Oil #1": "Amber Oil",
+        "Oil #2": "Violet Oil",
+        "Oil #3": "Silver Oil",
+        "Outcome": "Taste for Blood"
+    },
+    {
+        "Oil #1": "Indigo Oil",
+        "Oil #2": "Crimson Oil",
+        "Oil #3": "Black Oil",
+        "Outcome": "Field Medicine"
+    },
+    {
+        "Oil #1": "Sepia Oil",
+        "Oil #2": "Teal Oil",
+        "Oil #3": "Golden Oil",
+        "Outcome": "Nightstalker"
+    },
+    {
+        "Oil #1": "Amber Oil",
+        "Oil #2": "Indigo Oil",
+        "Oil #3": "Indigo Oil",
+        "Outcome": "High Voltage"
+    },
+    {
+        "Oil #1": "Sepia Oil",
+        "Oil #2": "Teal Oil",
+        "Oil #3": "Crimson Oil",
+        "Outcome": "Utmost Swiftness"
+    },
+    {
+        "Oil #1": "Amber Oil",
+        "Oil #2": "Teal Oil",
+        "Oil #3": "Golden Oil",
+        "Outcome": "Snowforged"
+    },
+    {
+        "Oil #1": "Azure Oil",
+        "Oil #2": "Opalescent Oil",
+        "Oil #3": "Silver Oil",
+        "Outcome": "Blood Siphon"
+    },
+    {
+        "Oil #1": "Clear Oil",
+        "Oil #2": "Amber Oil",
+        "Oil #3": "Crimson Oil",
+        "Outcome": "Toxic Strikes"
+    },
+    {
+        "Oil #1": "Amber Oil",
+        "Oil #2": "Verdant Oil",
+        "Oil #3": "Verdant Oil",
+        "Outcome": "Aspect of the Eagle"
+    },
+    {
+        "Oil #1": "Clear Oil",
+        "Oil #2": "Silver Oil",
+        "Oil #3": "Silver Oil",
+        "Outcome": "Arcane Sanctuary"
+    },
+    {
+        "Oil #1": "Sepia Oil",
+        "Oil #2": "Azure Oil",
+        "Oil #3": "Violet Oil",
+        "Outcome": "Entrench"
+    },
+    {
+        "Oil #1": "Violet Oil",
+        "Oil #2": "Golden Oil",
+        "Oil #3": "Golden Oil",
+        "Outcome": "Aspect of Stone"
+    },
+    {
+        "Oil #1": "Amber Oil",
+        "Oil #2": "Amber Oil",
+        "Oil #3": "Verdant Oil",
+        "Outcome": "Quickstep"
+    },
+    {
+        "Oil #1": "Verdant Oil",
+        "Oil #2": "Crimson Oil",
+        "Oil #3": "Black Oil",
+        "Outcome": "One With Nature"
+    },
+    {
+        "Oil #1": "Clear Oil",
+        "Oil #2": "Azure Oil",
+        "Oil #3": "Black Oil",
+        "Outcome": "Twin Terrors"
+    },
+    {
+        "Oil #1": "Verdant Oil",
+        "Oil #2": "Teal Oil",
+        "Oil #3": "Golden Oil",
+        "Outcome": "Influence"
+    },
+    {
+        "Oil #1": "Crimson Oil",
+        "Oil #2": "Silver Oil",
+        "Oil #3": "Golden Oil",
+        "Outcome": "Void Barrier"
+    },
+    {
+        "Oil #1": "Black Oil",
+        "Oil #2": "Silver Oil",
+        "Oil #3": "Golden Oil",
+        "Outcome": "Revenge of the Hunted"
+    },
+    {
+        "Oil #1": "Clear Oil",
+        "Oil #2": "Teal Oil",
+        "Oil #3": "Teal Oil",
+        "Outcome": "Saboteur"
+    },
+    {
+        "Oil #1": "Black Oil",
+        "Oil #2": "Opalescent Oil",
+        "Oil #3": "Golden Oil",
+        "Outcome": "Assassination"
+    },
+    {
+        "Oil #1": "Sepia Oil",
+        "Oil #2": "Amber Oil",
+        "Oil #3": "Azure Oil",
+        "Outcome": "Elemental Focus"
+    },
+    {
+        "Oil #1": "Sepia Oil",
+        "Oil #2": "Amber Oil",
+        "Oil #3": "Crimson Oil",
+        "Outcome": "Entropy"
+    },
+    {
+        "Oil #1": "Sepia Oil",
+        "Oil #2": "Verdant Oil",
+        "Oil #3": "Black Oil",
+        "Outcome": "Will of Blades"
+    },
+    {
+        "Oil #1": "Verdant Oil",
+        "Oil #2": "Teal Oil",
+        "Oil #3": "Opalescent Oil",
+        "Outcome": "Sleight of Hand"
+    },
+    {
+        "Oil #1": "Indigo Oil",
+        "Oil #2": "Black Oil",
+        "Oil #3": "Black Oil",
+        "Outcome": "Expert Hunter"
+    },
+    {
+        "Oil #1": "Clear Oil",
+        "Oil #2": "Clear Oil",
+        "Oil #3": "Crimson Oil",
+        "Outcome": "Successive Detonations"
+    },
+    {
+        "Oil #1": "Sepia Oil",
+        "Oil #2": "Sepia Oil",
+        "Oil #3": "Azure Oil",
+        "Outcome": "Instinct"
+    },
+    {
+        "Oil #1": "Amber Oil",
+        "Oil #2": "Amber Oil",
+        "Oil #3": "Golden Oil",
+        "Outcome": "Claws of the Falcon"
+    },
+    {
+        "Oil #1": "Golden Oil",
+        "Oil #2": "Golden Oil",
+        "Oil #3": "Golden Oil",
+        "Outcome": "Whispers of Doom"
+    },
+    {
+        "Oil #1": "Sepia Oil",
+        "Oil #2": "Verdant Oil",
+        "Oil #3": "Silver Oil",
+        "Outcome": "Life Raker"
+    },
+    {
+        "Oil #1": "Sepia Oil",
+        "Oil #2": "Violet Oil",
+        "Oil #3": "Silver Oil",
+        "Outcome": "Lethality"
+    },
+    {
+        "Oil #1": "Teal Oil",
+        "Oil #2": "Crimson Oil",
+        "Oil #3": "Opalescent Oil",
+        "Outcome": "Longshot"
+    },
+    {
+        "Oil #1": "Indigo Oil",
+        "Oil #2": "Crimson Oil",
+        "Oil #3": "Opalescent Oil",
+        "Outcome": "Adjacent Animosity"
+    },
+    {
+        "Oil #1": "Clear Oil",
+        "Oil #2": "Clear Oil",
+        "Oil #3": "Verdant Oil",
+        "Outcome": "Prowess"
+    },
+    {
+        "Oil #1": "Clear Oil",
+        "Oil #2": "Sepia Oil",
+        "Oil #3": "Amber Oil",
+        "Outcome": "Thief's Craft"
+    },
+    {
+        "Oil #1": "Clear Oil",
+        "Oil #2": "Amber Oil",
+        "Oil #3": "Violet Oil",
+        "Outcome": "Weapon Artistry"
+    },
+    {
+        "Oil #1": "Clear Oil",
+        "Oil #2": "Amber Oil",
+        "Oil #3": "Azure Oil",
+        "Outcome": "Poisonous Fangs"
+    },
+    {
+        "Oil #1": "Indigo Oil",
+        "Oil #2": "Violet Oil",
+        "Oil #3": "Opalescent Oil",
+        "Outcome": "Serpentine Spellslinger"
+    },
+    {
+        "Oil #1": "Violet Oil",
+        "Oil #2": "Violet Oil",
+        "Oil #3": "Crimson Oil",
+        "Outcome": "Aspect of the Lynx"
+    },
+    {
+        "Oil #1": "Amber Oil",
+        "Oil #2": "Violet Oil",
+        "Oil #3": "Violet Oil",
+        "Outcome": "Intuition"
+    },
+    {
+        "Oil #1": "Sepia Oil",
+        "Oil #2": "Amber Oil",
+        "Oil #3": "Opalescent Oil",
+        "Outcome": "Fleetfoot"
+    },
+    {
+        "Oil #1": "Verdant Oil",
+        "Oil #2": "Opalescent Oil",
+        "Oil #3": "Opalescent Oil",
+        "Outcome": "Resourcefulness"
+    },
+    {
+        "Oil #1": "Teal Oil",
+        "Oil #2": "Violet Oil",
+        "Oil #3": "Black Oil",
+        "Outcome": "Essence Sap"
+    },
+    {
+        "Oil #1": "Crimson Oil",
+        "Oil #2": "Crimson Oil",
+        "Oil #3": "Crimson Oil",
+        "Outcome": "Coldhearted Calculation"
+    },
+    {
+        "Oil #1": "Clear Oil",
+        "Oil #2": "Teal Oil",
+        "Oil #3": "Azure Oil",
+        "Outcome": "Fangs of the Viper"
+    },
+    {
+        "Oil #1": "Clear Oil",
+        "Oil #2": "Teal Oil",
+        "Oil #3": "Golden Oil",
+        "Outcome": "Growth and Decay"
+    },
+    {
+        "Oil #1": "Sepia Oil",
+        "Oil #2": "Violet Oil",
+        "Oil #3": "Golden Oil",
+        "Outcome": "Written in Blood"
+    },
+    {
+        "Oil #1": "Clear Oil",
+        "Oil #2": "Azure Oil",
+        "Oil #3": "Violet Oil",
+        "Outcome": "Expeditious Munitions"
+    },
+    {
+        "Oil #1": "Amber Oil",
+        "Oil #2": "Amber Oil",
+        "Oil #3": "Azure Oil",
+        "Outcome": "Overprepared"
+    },
+    {
+        "Oil #1": "Azure Oil",
+        "Oil #2": "Opalescent Oil",
+        "Oil #3": "Golden Oil",
+        "Outcome": "Master of Blades"
+    },
+    {
+        "Oil #1": "Clear Oil",
+        "Oil #2": "Verdant Oil",
+        "Oil #3": "Silver Oil",
+        "Outcome": "Hunter's Gambit"
+    },
+    {
+        "Oil #1": "Verdant Oil",
+        "Oil #2": "Teal Oil",
+        "Oil #3": "Silver Oil",
+        "Outcome": "Perfectionist"
+    },
+    {
+        "Oil #1": "Verdant Oil",
+        "Oil #2": "Azure Oil",
+        "Oil #3": "Silver Oil",
+        "Outcome": "Forces of Nature"
+    },
+    {
+        "Oil #1": "Indigo Oil",
+        "Oil #2": "Opalescent Oil",
+        "Oil #3": "Silver Oil",
+        "Outcome": "Natural Remedies"
+    },
+    {
+        "Oil #1": "Verdant Oil",
+        "Oil #2": "Azure Oil",
+        "Oil #3": "Crimson Oil",
+        "Outcome": "Flash Freeze"
+    },
+    {
+        "Oil #1": "Sepia Oil",
+        "Oil #2": "Teal Oil",
+        "Oil #3": "Silver Oil",
+        "Outcome": "Winter Spirit"
+    },
+    {
+        "Oil #1": "Amber Oil",
+        "Oil #2": "Verdant Oil",
+        "Oil #3": "Violet Oil",
+        "Outcome": "Silent Steps"
+    },
+    {
+        "Oil #1": "Clear Oil",
+        "Oil #2": "Sepia Oil",
+        "Oil #3": "Golden Oil",
+        "Outcome": "Atrophy"
+    },
+    {
+        "Oil #1": "Azure Oil",
+        "Oil #2": "Violet Oil",
+        "Oil #3": "Silver Oil",
+        "Outcome": "Primeval Force"
+    },
+    {
+        "Oil #1": "Amber Oil",
+        "Oil #2": "Azure Oil",
+        "Oil #3": "Golden Oil",
+        "Outcome": "Doom Cast"
+    },
+    {
+        "Oil #1": "Amber Oil",
+        "Oil #2": "Silver Oil",
+        "Oil #3": "Golden Oil",
+        "Outcome": "Ethereal Feast"
+    },
+    {
+        "Oil #1": "Amber Oil",
+        "Oil #2": "Black Oil",
+        "Oil #3": "Silver Oil",
+        "Outcome": "Fervour"
+    },
+    {
+        "Oil #1": "Azure Oil",
+        "Oil #2": "Crimson Oil",
+        "Oil #3": "Golden Oil",
+        "Outcome": "Survivalist"
+    },
+    {
+        "Oil #1": "Teal Oil",
+        "Oil #2": "Opalescent Oil",
+        "Oil #3": "Silver Oil",
+        "Outcome": "Herbalism"
+    },
+    {
+        "Oil #1": "Sepia Oil",
+        "Oil #2": "Crimson Oil",
+        "Oil #3": "Opalescent Oil",
+        "Outcome": "Soul Thief"
+    },
+    {
+        "Oil #1": "Clear Oil",
+        "Oil #2": "Verdant Oil",
+        "Oil #3": "Indigo Oil",
+        "Outcome": "Clever Thief"
+    },
+    {
+        "Oil #1": "Verdant Oil",
+        "Oil #2": "Teal Oil",
+        "Oil #3": "Teal Oil",
+        "Outcome": "Mind Drinker"
+    },
+    {
+        "Oil #1": "Azure Oil",
+        "Oil #2": "Silver Oil",
+        "Oil #3": "Silver Oil",
+        "Outcome": "Frenetic"
+    },
+    {
+        "Oil #1": "Crimson Oil",
+        "Oil #2": "Silver Oil",
+        "Oil #3": "Silver Oil",
+        "Outcome": "Infused"
+    },
+    {
+        "Oil #1": "Opalescent Oil",
+        "Oil #2": "Opalescent Oil",
+        "Oil #3": "Silver Oil",
+        "Outcome": "Blood Drinker"
+    },
+    {
+        "Oil #1": "Clear Oil",
+        "Oil #2": "Clear Oil",
+        "Oil #3": "Silver Oil",
+        "Outcome": "Arcing Blows"
+    },
+    {
+        "Oil #1": "Clear Oil",
+        "Oil #2": "Indigo Oil",
+        "Oil #3": "Silver Oil",
+        "Outcome": "Force Shaper"
+    },
+    {
+        "Oil #1": "Clear Oil",
+        "Oil #2": "Amber Oil",
+        "Oil #3": "Golden Oil",
+        "Outcome": "Swift Venoms"
+    },
+    {
+        "Oil #1": "Black Oil",
+        "Oil #2": "Black Oil",
+        "Oil #3": "Golden Oil",
+        "Outcome": "Inveterate"
+    },
+    {
+        "Oil #1": "Indigo Oil",
+        "Oil #2": "Black Oil",
+        "Oil #3": "Golden Oil",
+        "Outcome": "Season of Ice"
+    },
+    {
+        "Oil #1": "Sepia Oil",
+        "Oil #2": "Indigo Oil",
+        "Oil #3": "Crimson Oil",
+        "Outcome": "Relentless Pursuit"
+    },
+    {
+        "Oil #1": "Indigo Oil",
+        "Oil #2": "Black Oil",
+        "Oil #3": "Opalescent Oil",
+        "Outcome": "Careful Conservationist"
+    },
+    {
+        "Oil #1": "Teal Oil",
+        "Oil #2": "Crimson Oil",
+        "Oil #3": "Crimson Oil",
+        "Outcome": "Heartseeker"
+    },
+    {
+        "Oil #1": "Clear Oil",
+        "Oil #2": "Violet Oil",
+        "Oil #3": "Black Oil",
+        "Outcome": "Acuity"
+    },
+    {
+        "Oil #1": "Indigo Oil",
+        "Oil #2": "Black Oil",
+        "Oil #3": "Silver Oil",
+        "Outcome": "Multishot"
+    },
+    {
+        "Oil #1": "Clear Oil",
+        "Oil #2": "Azure Oil",
+        "Oil #3": "Crimson Oil",
+        "Outcome": "From the Shadows"
+    },
+    {
+        "Oil #1": "Clear Oil",
+        "Oil #2": "Indigo Oil",
+        "Oil #3": "Violet Oil",
+        "Outcome": "Circle of Life"
+    },
+    {
+        "Oil #1": "Amber Oil",
+        "Oil #2": "Verdant Oil",
+        "Oil #3": "Teal Oil",
+        "Outcome": "Depth Perception"
+    },
+    {
+        "Oil #1": "Indigo Oil",
+        "Oil #2": "Silver Oil",
+        "Oil #3": "Silver Oil",
+        "Outcome": "Watchtowers"
+    },
+    {
+        "Oil #1": "Azure Oil",
+        "Oil #2": "Opalescent Oil",
+        "Oil #3": "Opalescent Oil",
+        "Outcome": "Volatile Mines"
+    },
+    {
+        "Oil #1": "Teal Oil",
+        "Oil #2": "Teal Oil",
+        "Oil #3": "Silver Oil",
+        "Outcome": "Devastating Devices"
+    },
+    {
+        "Oil #1": "Amber Oil",
+        "Oil #2": "Crimson Oil",
+        "Oil #3": "Silver Oil",
+        "Outcome": "Explosive Elements"
+    },
+    {
+        "Oil #1": "Sepia Oil",
+        "Oil #2": "Indigo Oil",
+        "Oil #3": "Black Oil",
+        "Outcome": "Mark the Prey"
+    },
+    {
+        "Oil #1": "Clear Oil",
+        "Oil #2": "Teal Oil",
+        "Oil #3": "Silver Oil",
+        "Outcome": "Backstabbing"
+    },
+    {
+        "Oil #1": "Clear Oil",
+        "Oil #2": "Violet Oil",
+        "Oil #3": "Crimson Oil",
+        "Outcome": "Flaying"
+    },
+    {
+        "Oil #1": "Violet Oil",
+        "Oil #2": "Black Oil",
+        "Oil #3": "Opalescent Oil",
+        "Outcome": "Claws of the Hawk"
+    },
+    {
+        "Oil #1": "Sepia Oil",
+        "Oil #2": "Azure Oil",
+        "Oil #3": "Azure Oil",
+        "Outcome": "Claws of the Magpie"
+    },
+    {
+        "Oil #1": "Clear Oil",
+        "Oil #2": "Violet Oil",
+        "Oil #3": "Silver Oil",
+        "Outcome": "Fatal Toxins"
+    },
+    {
+        "Oil #1": "Sepia Oil",
+        "Oil #2": "Azure Oil",
+        "Oil #3": "Crimson Oil",
+        "Outcome": "Clever Construction"
+    },
+    {
+        "Oil #1": "Teal Oil",
+        "Oil #2": "Violet Oil",
+        "Oil #3": "Violet Oil",
+        "Outcome": "Unstable Munitions"
+    },
+    {
+        "Oil #1": "Verdant Oil",
+        "Oil #2": "Verdant Oil",
+        "Oil #3": "Silver Oil",
+        "Outcome": "High Explosives"
+    },
+    {
+        "Oil #1": "Sepia Oil",
+        "Oil #2": "Crimson Oil",
+        "Oil #3": "Silver Oil",
+        "Outcome": "Master Fletcher"
+    },
+    {
+        "Oil #1": "Verdant Oil",
+        "Oil #2": "Violet Oil",
+        "Oil #3": "Silver Oil",
+        "Outcome": "King of the Hill"
+    },
+    {
+        "Oil #1": "Sepia Oil",
+        "Oil #2": "Verdant Oil",
+        "Oil #3": "Golden Oil",
+        "Outcome": "Brutal Blade"
+    },
+    {
+        "Oil #1": "Amber Oil",
+        "Oil #2": "Opalescent Oil",
+        "Oil #3": "Opalescent Oil",
+        "Outcome": "Fatal Blade"
+    },
+    {
+        "Oil #1": "Amber Oil",
+        "Oil #2": "Violet Oil",
+        "Oil #3": "Golden Oil",
+        "Outcome": "Trick Shot"
+    },
+    {
+        "Oil #1": "Clear Oil",
+        "Oil #2": "Indigo Oil",
+        "Oil #3": "Opalescent Oil",
+        "Outcome": "Split Shot"
+    },
+    {
+        "Oil #1": "Black Oil",
+        "Oil #2": "Opalescent Oil",
+        "Oil #3": "Silver Oil",
+        "Outcome": "Piercing Shots"
+    },
+    {
+        "Oil #1": "Verdant Oil",
+        "Oil #2": "Indigo Oil",
+        "Oil #3": "Opalescent Oil",
+        "Outcome": "Vengeant Cascade"
+    },
+    {
+        "Oil #1": "Clear Oil",
+        "Oil #2": "Clear Oil",
+        "Oil #3": null,
+        "Outcome": "Your Chilling Towers deal 25% increased Damage"
+    },
+    {
+        "Oil #1": "Indigo Oil",
+        "Oil #2": "Violet Oil",
+        "Oil #3": null,
+        "Outcome": "Your Meteor Towers create Burning Ground for 3 seconds on Hit"
+    },
+    {
+        "Oil #1": "Clear Oil",
+        "Oil #2": "Verdant Oil",
+        "Oil #3": null,
+        "Outcome": "Your Meteor Towers deal 25% increased Damage"
+    },
+    {
+        "Oil #1": "Verdant Oil",
+        "Oil #2": "Silver Oil",
+        "Oil #3": null,
+        "Outcome": "Your Stone Gaze Towers have 20% increased Cooldown Recovery Rate"
+    },
+    {
+        "Oil #1": "Clear Oil",
+        "Oil #2": "Silver Oil",
+        "Oil #3": null,
+        "Outcome": "Your Arc Towers repeats 1 additional Times"
+    },
+    {
+        "Oil #1": "Sepia Oil",
+        "Oil #2": "Teal Oil",
+        "Oil #3": null,
+        "Outcome": "Your Lightning Storm Towers deal 25% increased Damage"
+    },
+    {
+        "Oil #1": "Crimson Oil",
+        "Oil #2": "Crimson Oil",
+        "Oil #3": null,
+        "Outcome": "Your Meteor Towers always Stun"
+    },
+    {
+        "Oil #1": "Sepia Oil",
+        "Oil #2": "Verdant Oil",
+        "Oil #3": null,
+        "Outcome": "Minions summoned by Your Summoning Towers have 25% increased Damage"
+    },
+    {
+        "Oil #1": "Amber Oil",
+        "Oil #2": "Indigo Oil",
+        "Oil #3": null,
+        "Outcome": "Your Arc Towers have 20% chance to inflict Sap"
+    },
+    {
+        "Oil #1": "Golden Oil",
+        "Oil #2": "Golden Oil",
+        "Oil #3": null,
+        "Outcome": "All Towers in range of your Empowering Towers have 50% chance to deal Double Damage"
+    },
+    {
+        "Oil #1": "Sepia Oil",
+        "Oil #2": "Opalescent Oil",
+        "Oil #3": null,
+        "Outcome": "Your Fireball Towers fire an additional 2 Projectiles"
+    },
+    {
+        "Oil #1": "Indigo Oil",
+        "Oil #2": "Silver Oil",
+        "Oil #3": null,
+        "Outcome": "Your Lightning Storm Towers create Storms centred on Enemies"
+    },
+    {
+        "Oil #1": "Violet Oil",
+        "Oil #2": "Violet Oil",
+        "Oil #3": null,
+        "Outcome": "Your Chilling Towers have 25% increased effect of Chill"
+    },
+    {
+        "Oil #1": "Opalescent Oil",
+        "Oil #2": "Silver Oil",
+        "Oil #3": null,
+        "Outcome": "Your Chilling Towers freeze enemies for 0.2 seconds while they are affected by chilling beams"
+    },
+    {
+        "Oil #1": "Azure Oil",
+        "Oil #2": "Black Oil",
+        "Oil #3": null,
+        "Outcome": "Your Smothering Towers have 25% increased Range"
+    },
+    {
+        "Oil #1": "Violet Oil",
+        "Oil #2": "Silver Oil",
+        "Oil #3": null,
+        "Outcome": "Your Empowering Towers also grant 20% increased Cast Speed"
+    },
+    {
+        "Oil #1": "Clear Oil",
+        "Oil #2": "Black Oil",
+        "Oil #3": null,
+        "Outcome": "Your Seismic Towers have 25% increased Range"
+    },
+    {
+        "Oil #1": "Teal Oil",
+        "Oil #2": "Violet Oil",
+        "Oil #3": null,
+        "Outcome": "Your Scout Towers have 25% increased Range"
+    },
+    {
+        "Oil #1": "Amber Oil",
+        "Oil #2": "Opalescent Oil",
+        "Oil #3": null,
+        "Outcome": "Your Flamethrower Towers have 15% increased Cast Speed"
+    },
+    {
+        "Oil #1": "Verdant Oil",
+        "Oil #2": "Indigo Oil",
+        "Oil #3": null,
+        "Outcome": "Your Freezebolt Towers have 20% chance to inflict Brittle"
+    },
+    {
+        "Oil #1": "Amber Oil",
+        "Oil #2": "Violet Oil",
+        "Oil #3": null,
+        "Outcome": "Your Flamethrower Towers have 25% increased Range"
+    },
+    {
+        "Oil #1": "Black Oil",
+        "Oil #2": "Opalescent Oil",
+        "Oil #3": null,
+        "Outcome": "Minions summoned by Your Sentinel Towers have 50% increased Life"
+    },
+    {
+        "Oil #1": "Indigo Oil",
+        "Oil #2": "Indigo Oil",
+        "Oil #3": null,
+        "Outcome": "Minions summoned by Your Sentinel Towers Leech 2% of Damage as Life"
+    },
+    {
+        "Oil #1": "Clear Oil",
+        "Oil #2": "Amber Oil",
+        "Oil #3": null,
+        "Outcome": "Your Fireball Towers deal 25% increased Damage"
+    },
+    {
+        "Oil #1": "Azure Oil",
+        "Oil #2": "Azure Oil",
+        "Oil #3": null,
+        "Outcome": "Your Summoning Towers have 25% increased Range"
+    },
+    {
+        "Oil #1": "Indigo Oil",
+        "Oil #2": "Black Oil",
+        "Oil #3": null,
+        "Outcome": "Minions summoned by Your Scout Towers inflict Malediction on Hit"
+    },
+    {
+        "Oil #1": "Amber Oil",
+        "Oil #2": "Silver Oil",
+        "Oil #3": null,
+        "Outcome": "Your Temporal Towers effects decay 25% slower"
+    },
+    {
+        "Oil #1": "Sepia Oil",
+        "Oil #2": "Crimson Oil",
+        "Oil #3": null,
+        "Outcome": "Your Lightning Storm Towers have 25% increased Range"
+    },
+    {
+        "Oil #1": "Verdant Oil",
+        "Oil #2": "Crimson Oil",
+        "Oil #3": null,
+        "Outcome": "Your Freezebolt Tower deal full damage to Cold Enemies"
+    },
+    {
+        "Oil #1": "Black Oil",
+        "Oil #2": "Golden Oil",
+        "Oil #3": null,
+        "Outcome": "Your Shock Nova Towers have 30% increased area of effect per repeatYour Shock Nova Towers repeats 2 additional Times"
+    },
+    {
+        "Oil #1": "Teal Oil",
+        "Oil #2": "Opalescent Oil",
+        "Oil #3": null,
+        "Outcome": "Minions summoned by Your Summoning Towers have 25% increased Movement Speed"
+    },
+    {
+        "Oil #1": "Indigo Oil",
+        "Oil #2": "Golden Oil",
+        "Oil #3": null,
+        "Outcome": "Your Towers deal 10% increased Damage per Type of Tower Active"
+    },
+    {
+        "Oil #1": "Verdant Oil",
+        "Oil #2": "Teal Oil",
+        "Oil #3": null,
+        "Outcome": "Your Stone Gaze Towers have 25% increased Duration"
+    },
+    {
+        "Oil #1": "Violet Oil",
+        "Oil #2": "Opalescent Oil",
+        "Oil #3": null,
+        "Outcome": "Minions summoned by Your Sentinel Towers have 25% increased Movement Speed"
+    },
+    {
+        "Oil #1": "Azure Oil",
+        "Oil #2": "Silver Oil",
+        "Oil #3": null,
+        "Outcome": "Your Scout Towers summon an additional minion"
+    },
+    {
+        "Oil #1": "Crimson Oil",
+        "Oil #2": "Silver Oil",
+        "Oil #3": null,
+        "Outcome": "Your Imbuing Towers also grant 50% increased Critical Strike Chance"
+    },
+    {
+        "Oil #1": "Indigo Oil",
+        "Oil #2": "Opalescent Oil",
+        "Oil #3": null,
+        "Outcome": "Cages created by Your Glacial Cage Towers are 20% larger"
+    },
+    {
+        "Oil #1": "Indigo Oil",
+        "Oil #2": "Crimson Oil",
+        "Oil #3": null,
+        "Outcome": "Enemies Petrified by Your Stone Gaze Towers take 10% increased Damage"
+    },
+    {
+        "Oil #1": "Azure Oil",
+        "Oil #2": "Indigo Oil",
+        "Oil #3": null,
+        "Outcome": "Your Imbuing Towers also grant Onslaught"
+    },
+    {
+        "Oil #1": "Teal Oil",
+        "Oil #2": "Indigo Oil",
+        "Oil #3": null,
+        "Outcome": "Your Temporal Towers also grant Stun Immunity"
+    },
+    {
+        "Oil #1": "Azure Oil",
+        "Oil #2": "Crimson Oil",
+        "Oil #3": null,
+        "Outcome": "Your Fireball Towers have 15% increased Cast Speed"
+    },
+    {
+        "Oil #1": "Sepia Oil",
+        "Oil #2": "Indigo Oil",
+        "Oil #3": null,
+        "Outcome": "Your Flamethrower Towers have 20% chance to inflict Scorch"
+    },
+    {
+        "Oil #1": "Sepia Oil",
+        "Oil #2": "Black Oil",
+        "Oil #3": null,
+        "Outcome": "Your Temporal Towers have 25% increased Range"
+    },
+    {
+        "Oil #1": "Violet Oil",
+        "Oil #2": "Crimson Oil",
+        "Oil #3": null,
+        "Outcome": "Your Flamethrower Towers deal full damage to Fire Enemies"
+    },
+    {
+        "Oil #1": "Verdant Oil",
+        "Oil #2": "Azure Oil",
+        "Oil #3": null,
+        "Outcome": "Your Chilling Towers have 25% increased Range"
+    },
+    {
+        "Oil #1": "Crimson Oil",
+        "Oil #2": "Opalescent Oil",
+        "Oil #3": null,
+        "Outcome": "Your Shock Nova Towers deal full damage to Lightning Enemies"
+    },
+    {
+        "Oil #1": "Verdant Oil",
+        "Oil #2": "Black Oil",
+        "Oil #3": null,
+        "Outcome": "Your Empowering Towers have 25% increased Range"
+    },
+    {
+        "Oil #1": "Clear Oil",
+        "Oil #2": "Indigo Oil",
+        "Oil #3": null,
+        "Outcome": "Your Smothering Towers also grant 10% chance to be Frozen, Shocked and Ignited"
+    },
+    {
+        "Oil #1": "Violet Oil",
+        "Oil #2": "Golden Oil",
+        "Oil #3": null,
+        "Outcome": "Your Imbuing Towers also grant 50% increased Damage"
+    },
+    {
+        "Oil #1": "Opalescent Oil",
+        "Oil #2": "Golden Oil",
+        "Oil #3": null,
+        "Outcome": "Your Fireball Towers fire an additional 8 ProjectilesYour Fireball Towers Projectiles fire in a circle"
+    },
+    {
+        "Oil #1": "Silver Oil",
+        "Oil #2": "Silver Oil",
+        "Oil #3": null,
+        "Outcome": "Your Summoning Towers summon 2 additional Minions"
+    },
+    {
+        "Oil #1": "Verdant Oil",
+        "Oil #2": "Violet Oil",
+        "Oil #3": null,
+        "Outcome": "Your Meteor Towers have 25% increased Range"
+    },
+    {
+        "Oil #1": "Crimson Oil",
+        "Oil #2": "Golden Oil",
+        "Oil #3": null,
+        "Outcome": "Your Smothering Towers also grant 10% reduced Damage"
+    },
+    {
+        "Oil #1": "Silver Oil",
+        "Oil #2": "Golden Oil",
+        "Oil #3": null,
+        "Outcome": "Your Seismic Towers have 100% increased length and range of Cascades"
+    },
+    {
+        "Oil #1": "Black Oil",
+        "Oil #2": "Black Oil",
+        "Oil #3": null,
+        "Outcome": "Your Lightning Storm Towers have 25% reduced Impact Delay"
+    },
+    {
+        "Oil #1": "Black Oil",
+        "Oil #2": "Silver Oil",
+        "Oil #3": null,
+        "Outcome": "Your Empowering Towers also grant 25% increased Damage"
+    },
+    {
+        "Oil #1": "Verdant Oil",
+        "Oil #2": "Opalescent Oil",
+        "Oil #3": null,
+        "Outcome": "Your Meteor Towers drop an additional Meteor"
+    },
+    {
+        "Oil #1": "Azure Oil",
+        "Oil #2": "Golden Oil",
+        "Oil #3": null,
+        "Outcome": "Your Stone Gaze Towers have 20% reduced Petrification Delay"
+    },
+    {
+        "Oil #1": "Teal Oil",
+        "Oil #2": "Golden Oil",
+        "Oil #3": null,
+        "Outcome": "Your Temporal Towers also grant you 20% increased action speed"
+    },
+    {
+        "Oil #1": "Clear Oil",
+        "Oil #2": "Crimson Oil",
+        "Oil #3": null,
+        "Outcome": "Your Shock Nova Towers have 25% increased Range"
+    },
+    {
+        "Oil #1": "Verdant Oil",
+        "Oil #2": "Golden Oil",
+        "Oil #3": null,
+        "Outcome": "Your Seismic Towers have an additional Cascade"
+    },
+    {
+        "Oil #1": "Verdant Oil",
+        "Oil #2": "Verdant Oil",
+        "Oil #3": null,
+        "Outcome": "Your Arc Towers deal 25% increased Damage"
+    },
+    {
+        "Oil #1": "Amber Oil",
+        "Oil #2": "Golden Oil",
+        "Oil #3": null,
+        "Outcome": "Your Arc Towers have 3 additional chains"
+    },
+    {
+        "Oil #1": "Sepia Oil",
+        "Oil #2": "Golden Oil",
+        "Oil #3": null,
+        "Outcome": "Your Lightning Storm Towers have 25% increased explosion Area of Effect"
+    },
+    {
+        "Oil #1": "Clear Oil",
+        "Oil #2": "Teal Oil",
+        "Oil #3": null,
+        "Outcome": "Minions summoned by Your Sentinel Towers have 25% increased Damage"
+    },
+    {
+        "Oil #1": "Amber Oil",
+        "Oil #2": "Amber Oil",
+        "Oil #3": null,
+        "Outcome": "Minions summoned by Your Scout Towers have 25% increased Damage"
+    },
+    {
+        "Oil #1": "Sepia Oil",
+        "Oil #2": "Azure Oil",
+        "Oil #3": null,
+        "Outcome": "Your Empowering Towers have 25% increased Effect"
+    },
+    {
+        "Oil #1": "Amber Oil",
+        "Oil #2": "Teal Oil",
+        "Oil #3": null,
+        "Outcome": "Your Seismic Towers deal 25% increased Damage"
+    },
+    {
+        "Oil #1": "Clear Oil",
+        "Oil #2": "Sepia Oil",
+        "Oil #3": null,
+        "Outcome": "Your Freezebolt Towers deal 25% increased Damage"
+    },
+    {
+        "Oil #1": "Clear Oil",
+        "Oil #2": "Golden Oil",
+        "Oil #3": null,
+        "Outcome": "Your Shock Nova Towers have 25% increased effect of Shock"
+    },
+    {
+        "Oil #1": "Sepia Oil",
+        "Oil #2": "Amber Oil",
+        "Oil #3": null,
+        "Outcome": "Your Flamethrower Towers deal 25% increased Damage"
+    },
+    {
+        "Oil #1": "Opalescent Oil",
+        "Oil #2": "Opalescent Oil",
+        "Oil #3": null,
+        "Outcome": "Your Smothering Towers also grant 20% reduced Movement Speed"
+    },
+    {
+        "Oil #1": "Violet Oil",
+        "Oil #2": "Black Oil",
+        "Oil #3": null,
+        "Outcome": "Your Chilling Towers have 25% increased Duration"
+    },
+    {
+        "Oil #1": "Amber Oil",
+        "Oil #2": "Verdant Oil",
+        "Oil #3": null,
+        "Outcome": "Your Shock Nova Towers deal 25% increased Damage"
+    },
+    {
+        "Oil #1": "Sepia Oil",
+        "Oil #2": "Silver Oil",
+        "Oil #3": null,
+        "Outcome": "Your Seismic Towers have 25% increased Stun Duration"
+    },
+    {
+        "Oil #1": "Teal Oil",
+        "Oil #2": "Azure Oil",
+        "Oil #3": null,
+        "Outcome": "Your Glacial Cage Towers have 25% increased Range"
+    },
+    {
+        "Oil #1": "Clear Oil",
+        "Oil #2": "Violet Oil",
+        "Oil #3": null,
+        "Outcome": "Your Freezebolt Towers have 25% increased Range"
+    },
+    {
+        "Oil #1": "Amber Oil",
+        "Oil #2": "Black Oil",
+        "Oil #3": null,
+        "Outcome": "Your Stone Gaze Cage Towers have 25% increased Range"
+    },
+    {
+        "Oil #1": "Teal Oil",
+        "Oil #2": "Silver Oil",
+        "Oil #3": null,
+        "Outcome": "Minions summoned by Your Summoning Towers have 50% increased Life"
+    },
+    {
+        "Oil #1": "Crimson Oil",
+        "Oil #2": "Black Oil",
+        "Oil #3": null,
+        "Outcome": "Your Freezebolt Towers fire 2 additional Projectiles"
+    },
+    {
+        "Oil #1": "Sepia Oil",
+        "Oil #2": "Sepia Oil",
+        "Oil #3": null,
+        "Outcome": "Your Glacial Cage Towers have 25% increased Duration"
+    },
+    {
+        "Oil #1": "Azure Oil",
+        "Oil #2": "Opalescent Oil",
+        "Oil #3": null,
+        "Outcome": "Minions summoned by Your Scout Towers have 25% increased Movement Speed"
+    },
+    {
+        "Oil #1": "Sepia Oil",
+        "Oil #2": "Violet Oil",
+        "Oil #3": null,
+        "Outcome": "Your Fireball Towers have 25% increased Range"
+    },
+    {
+        "Oil #1": "Teal Oil",
+        "Oil #2": "Black Oil",
+        "Oil #3": null,
+        "Outcome": "Your Imbuing Towers have 25% increased Range"
+    },
+    {
+        "Oil #1": "Amber Oil",
+        "Oil #2": "Crimson Oil",
+        "Oil #3": null,
+        "Outcome": "Your Arc Towers have 25% increased Range"
+    },
+    {
+        "Oil #1": "Clear Oil",
+        "Oil #2": "Azure Oil",
+        "Oil #3": null,
+        "Outcome": "Your Temporal Towers have 25% increased Effect"
+    },
+    {
+        "Oil #1": "Azure Oil",
+        "Oil #2": "Violet Oil",
+        "Oil #3": null,
+        "Outcome": "Your Sentinel Towers have 25% increased Range"
+    },
+    {
+        "Oil #1": "Clear Oil",
+        "Oil #2": "Opalescent Oil",
+        "Oil #3": null,
+        "Outcome": "Enemies inside Glacial Cage take 10% increased Damage"
+    },
+    {
+        "Oil #1": "Teal Oil",
+        "Oil #2": "Teal Oil",
+        "Oil #3": null,
+        "Outcome": "Your Smothering Towers have 25% increased Effect"
+    },
+    {
+        "Oil #1": "Teal Oil",
+        "Oil #2": "Crimson Oil",
+        "Oil #3": null,
+        "Outcome": "Your Glacial Cage Towers have 20% increased Cooldown Recovery Rate"
+    },
+    {
+        "Oil #1": "Amber Oil",
+        "Oil #2": "Azure Oil",
+        "Oil #3": null,
+        "Outcome": "Your Imbuing Towers have 25% increased Effect"
+    }
+]

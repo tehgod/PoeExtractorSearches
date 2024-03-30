@@ -1,0 +1,2066 @@
+[
+    {
+        "Name": "Whispers of Doom",
+        "Value": 76.0
+    },
+    {
+        "Name": "All Towers in range of your Empowering Towers have 50% chance to deal Double Damage",
+        "Value": 76.0
+    },
+    {
+        "Name": "Prismatic Skin",
+        "Value": 61.0
+    },
+    {
+        "Name": "Your Seismic Towers have 100% increased length and range of Cascades",
+        "Value": 53.5
+    },
+    {
+        "Name": "Charisma",
+        "Value": 50.0
+    },
+    {
+        "Name": "Crusader",
+        "Value": 47.666666666666664
+    },
+    {
+        "Name": "Tenacity",
+        "Value": 46.0
+    },
+    {
+        "Name": "Spiritual Aid",
+        "Value": 46.0
+    },
+    {
+        "Name": "Steadfast",
+        "Value": 46.0
+    },
+    {
+        "Name": "Soul of Steel",
+        "Value": 46.0
+    },
+    {
+        "Name": "Anointed Flesh",
+        "Value": 46.0
+    },
+    {
+        "Name": "Unnatural Calm",
+        "Value": 46.0
+    },
+    {
+        "Name": "Golem's Blood",
+        "Value": 46.0
+    },
+    {
+        "Name": "Panopticon",
+        "Value": 46.0
+    },
+    {
+        "Name": "Tranquility",
+        "Value": 46.0
+    },
+    {
+        "Name": "Aspect of Stone",
+        "Value": 46.0
+    },
+    {
+        "Name": "Your Fireball Towers fire an additional 8 ProjectilesYour Fireball Towers Projectiles fire in a circle",
+        "Value": 37.0
+    },
+    {
+        "Name": "Tribal Fury",
+        "Value": 35.0
+    },
+    {
+        "Name": "Your Shock Nova Towers have 30% increased area of effect per repeatYour Shock Nova Towers repeats 2 additional Times",
+        "Value": 33.5
+    },
+    {
+        "Name": "Revenge of the Hunted",
+        "Value": 32.666666666666664
+    },
+    {
+        "Name": "Sovereignty",
+        "Value": 31.0
+    },
+    {
+        "Name": "Natural Authority",
+        "Value": 31.0
+    },
+    {
+        "Name": "Heart of the Warrior",
+        "Value": 31.0
+    },
+    {
+        "Name": "Golem Commander",
+        "Value": 31.0
+    },
+    {
+        "Name": "Essence Surge",
+        "Value": 31.0
+    },
+    {
+        "Name": "Ravenous Horde",
+        "Value": 31.0
+    },
+    {
+        "Name": "Vitality Void",
+        "Value": 31.0
+    },
+    {
+        "Name": "Void Barrier",
+        "Value": 31.0
+    },
+    {
+        "Name": "Ethereal Feast",
+        "Value": 31.0
+    },
+    {
+        "Name": "Your Towers deal 10% increased Damage per Type of Tower Active",
+        "Value": 31.0
+    },
+    {
+        "Name": "Your Imbuing Towers also grant 50% increased Damage",
+        "Value": 31.0
+    },
+    {
+        "Name": "Your Summoning Towers summon 2 additional Minions",
+        "Value": 31.0
+    },
+    {
+        "Name": "Your Smothering Towers also grant 10% reduced Damage",
+        "Value": 31.0
+    },
+    {
+        "Name": "Your Stone Gaze Towers have 20% reduced Petrification Delay",
+        "Value": 31.0
+    },
+    {
+        "Name": "Your Temporal Towers also grant you 20% increased action speed",
+        "Value": 31.0
+    },
+    {
+        "Name": "Your Seismic Towers have an additional Cascade",
+        "Value": 31.0
+    },
+    {
+        "Name": "Your Arc Towers have 3 additional chains",
+        "Value": 31.0
+    },
+    {
+        "Name": "Your Lightning Storm Towers have 25% increased explosion Area of Effect",
+        "Value": 31.0
+    },
+    {
+        "Name": "Your Shock Nova Towers have 25% increased effect of Shock",
+        "Value": 31.0
+    },
+    {
+        "Name": "Barbarism",
+        "Value": 24.0
+    },
+    {
+        "Name": "Assassination",
+        "Value": 21.666666666666668
+    },
+    {
+        "Name": "Lust for Carnage",
+        "Value": 20.0
+    },
+    {
+        "Name": "Dismembering",
+        "Value": 20.0
+    },
+    {
+        "Name": "Skittering Runes",
+        "Value": 20.0
+    },
+    {
+        "Name": "Mana Flows",
+        "Value": 20.0
+    },
+    {
+        "Name": "Foresight",
+        "Value": 20.0
+    },
+    {
+        "Name": "Dirty Techniques",
+        "Value": 20.0
+    },
+    {
+        "Name": "Art of the Gladiator",
+        "Value": 20.0
+    },
+    {
+        "Name": "Heart of Ice",
+        "Value": 20.0
+    },
+    {
+        "Name": "Master of Blades",
+        "Value": 20.0
+    },
+    {
+        "Name": "Inveterate",
+        "Value": 19.333333333333332
+    },
+    {
+        "Name": "Savage Wounds",
+        "Value": 17.666666666666668
+    },
+    {
+        "Name": "Arcane Capacitor",
+        "Value": 17.666666666666668
+    },
+    {
+        "Name": "Endurance",
+        "Value": 17.666666666666668
+    },
+    {
+        "Name": "Faith and Steel",
+        "Value": 17.666666666666668
+    },
+    {
+        "Name": "Discipline and Training",
+        "Value": 17.666666666666668
+    },
+    {
+        "Name": "Measured Fury",
+        "Value": 17.666666666666668
+    },
+    {
+        "Name": "Savagery",
+        "Value": 17.666666666666668
+    },
+    {
+        "Name": "Reflexes",
+        "Value": 17.666666666666668
+    },
+    {
+        "Name": "Deadly Inclinations",
+        "Value": 17.666666666666668
+    },
+    {
+        "Name": "Season of Ice",
+        "Value": 17.666666666666668
+    },
+    {
+        "Name": "Persistence",
+        "Value": 16.0
+    },
+    {
+        "Name": "Lava Lash",
+        "Value": 16.0
+    },
+    {
+        "Name": "Settling Ash",
+        "Value": 16.0
+    },
+    {
+        "Name": "Disemboweling",
+        "Value": 16.0
+    },
+    {
+        "Name": "Sanctum of Thought",
+        "Value": 16.0
+    },
+    {
+        "Name": "Spiritual Command",
+        "Value": 16.0
+    },
+    {
+        "Name": "Bloodless",
+        "Value": 16.0
+    },
+    {
+        "Name": "Goliath",
+        "Value": 16.0
+    },
+    {
+        "Name": "Born to Fight",
+        "Value": 16.0
+    },
+    {
+        "Name": "Champion of the Cause",
+        "Value": 16.0
+    },
+    {
+        "Name": "Insightfulness",
+        "Value": 16.0
+    },
+    {
+        "Name": "Quick Recovery",
+        "Value": 16.0
+    },
+    {
+        "Name": "Veteran Soldier",
+        "Value": 16.0
+    },
+    {
+        "Name": "Enduring Bond",
+        "Value": 16.0
+    },
+    {
+        "Name": "Constitution",
+        "Value": 16.0
+    },
+    {
+        "Name": "Breath of Flames",
+        "Value": 16.0
+    },
+    {
+        "Name": "Heart of Flame",
+        "Value": 16.0
+    },
+    {
+        "Name": "Breath of Lightning",
+        "Value": 16.0
+    },
+    {
+        "Name": "Heart of Thunder",
+        "Value": 16.0
+    },
+    {
+        "Name": "Instability",
+        "Value": 16.0
+    },
+    {
+        "Name": "Heart and Soul",
+        "Value": 16.0
+    },
+    {
+        "Name": "Disciple of the Slaughter",
+        "Value": 16.0
+    },
+    {
+        "Name": "Presage",
+        "Value": 16.0
+    },
+    {
+        "Name": "Arcane Chemistry",
+        "Value": 16.0
+    },
+    {
+        "Name": "Breath of Rime",
+        "Value": 16.0
+    },
+    {
+        "Name": "Steeped in the Profane",
+        "Value": 16.0
+    },
+    {
+        "Name": "Fingers of Frost",
+        "Value": 16.0
+    },
+    {
+        "Name": "Arcane Expanse",
+        "Value": 16.0
+    },
+    {
+        "Name": "Wasting",
+        "Value": 16.0
+    },
+    {
+        "Name": "Thick Skin",
+        "Value": 16.0
+    },
+    {
+        "Name": "Cleansed Thoughts",
+        "Value": 16.0
+    },
+    {
+        "Name": "Druidic Rite",
+        "Value": 16.0
+    },
+    {
+        "Name": "Heart of Oak",
+        "Value": 16.0
+    },
+    {
+        "Name": "Nightstalker",
+        "Value": 16.0
+    },
+    {
+        "Name": "Snowforged",
+        "Value": 16.0
+    },
+    {
+        "Name": "Arcane Sanctuary",
+        "Value": 16.0
+    },
+    {
+        "Name": "Influence",
+        "Value": 16.0
+    },
+    {
+        "Name": "Claws of the Falcon",
+        "Value": 16.0
+    },
+    {
+        "Name": "Growth and Decay",
+        "Value": 16.0
+    },
+    {
+        "Name": "Written in Blood",
+        "Value": 16.0
+    },
+    {
+        "Name": "Atrophy",
+        "Value": 16.0
+    },
+    {
+        "Name": "Doom Cast",
+        "Value": 16.0
+    },
+    {
+        "Name": "Survivalist",
+        "Value": 16.0
+    },
+    {
+        "Name": "Frenetic",
+        "Value": 16.0
+    },
+    {
+        "Name": "Infused",
+        "Value": 16.0
+    },
+    {
+        "Name": "Swift Venoms",
+        "Value": 16.0
+    },
+    {
+        "Name": "Watchtowers",
+        "Value": 16.0
+    },
+    {
+        "Name": "Brutal Blade",
+        "Value": 16.0
+    },
+    {
+        "Name": "Trick Shot",
+        "Value": 16.0
+    },
+    {
+        "Name": "Your Chilling Towers freeze enemies for 0.2 seconds while they are affected by chilling beams",
+        "Value": 14.5
+    },
+    {
+        "Name": "Your Empowering Towers also grant 25% increased Damage",
+        "Value": 11.0
+    },
+    {
+        "Name": "Blood Drinker",
+        "Value": 9.0
+    },
+    {
+        "Name": "Your Stone Gaze Towers have 20% increased Cooldown Recovery Rate",
+        "Value": 8.5
+    },
+    {
+        "Name": "Your Arc Towers repeats 1 additional Times",
+        "Value": 8.5
+    },
+    {
+        "Name": "Your Lightning Storm Towers create Storms centred on Enemies",
+        "Value": 8.5
+    },
+    {
+        "Name": "Your Empowering Towers also grant 20% increased Cast Speed",
+        "Value": 8.5
+    },
+    {
+        "Name": "Your Temporal Towers effects decay 25% slower",
+        "Value": 8.5
+    },
+    {
+        "Name": "Your Scout Towers summon an additional minion",
+        "Value": 8.5
+    },
+    {
+        "Name": "Your Imbuing Towers also grant 50% increased Critical Strike Chance",
+        "Value": 8.5
+    },
+    {
+        "Name": "Your Seismic Towers have 25% increased Stun Duration",
+        "Value": 8.5
+    },
+    {
+        "Name": "Minions summoned by Your Summoning Towers have 50% increased Life",
+        "Value": 8.5
+    },
+    {
+        "Name": "Piercing Shots",
+        "Value": 6.666666666666667
+    },
+    {
+        "Name": "Hearty",
+        "Value": 5.0
+    },
+    {
+        "Name": "Inexorable",
+        "Value": 5.0
+    },
+    {
+        "Name": "Master of the Arena",
+        "Value": 5.0
+    },
+    {
+        "Name": "Mystic Talents",
+        "Value": 5.0
+    },
+    {
+        "Name": "Leadership",
+        "Value": 5.0
+    },
+    {
+        "Name": "Overcharged",
+        "Value": 5.0
+    },
+    {
+        "Name": "Blood Siphon",
+        "Value": 5.0
+    },
+    {
+        "Name": "Natural Remedies",
+        "Value": 5.0
+    },
+    {
+        "Name": "Herbalism",
+        "Value": 5.0
+    },
+    {
+        "Name": "Stamina",
+        "Value": 4.333333333333333
+    },
+    {
+        "Name": "Overcharge",
+        "Value": 2.6666666666666665
+    },
+    {
+        "Name": "Purity of Flesh",
+        "Value": 2.6666666666666665
+    },
+    {
+        "Name": "Arcane Potency",
+        "Value": 2.6666666666666665
+    },
+    {
+        "Name": "Hematophagy",
+        "Value": 2.6666666666666665
+    },
+    {
+        "Name": "Cruel Preparation",
+        "Value": 2.6666666666666665
+    },
+    {
+        "Name": "Profane Chemistry",
+        "Value": 2.6666666666666665
+    },
+    {
+        "Name": "Crystal Skin",
+        "Value": 2.6666666666666665
+    },
+    {
+        "Name": "Fervour",
+        "Value": 2.6666666666666665
+    },
+    {
+        "Name": "Multishot",
+        "Value": 2.6666666666666665
+    },
+    {
+        "Name": "Blade Master",
+        "Value": 1.0
+    },
+    {
+        "Name": "Counterweight",
+        "Value": 1.0
+    },
+    {
+        "Name": "Concussive Force",
+        "Value": 1.0
+    },
+    {
+        "Name": "Devotion",
+        "Value": 1.0
+    },
+    {
+        "Name": "Vanquisher",
+        "Value": 1.0
+    },
+    {
+        "Name": "Holy Fire",
+        "Value": 1.0
+    },
+    {
+        "Name": "Runesmith",
+        "Value": 1.0
+    },
+    {
+        "Name": "Blunt Trauma",
+        "Value": 1.0
+    },
+    {
+        "Name": "Blade of Cunning",
+        "Value": 1.0
+    },
+    {
+        "Name": "Death Attunement",
+        "Value": 1.0
+    },
+    {
+        "Name": "Asylum",
+        "Value": 1.0
+    },
+    {
+        "Name": "Bloodletting",
+        "Value": 1.0
+    },
+    {
+        "Name": "Merciless Skewering",
+        "Value": 1.0
+    },
+    {
+        "Name": "Shaman's Dominion",
+        "Value": 1.0
+    },
+    {
+        "Name": "Lord of the Dead",
+        "Value": 1.0
+    },
+    {
+        "Name": "Malicious Intent",
+        "Value": 1.0
+    },
+    {
+        "Name": "Arcane Will",
+        "Value": 1.0
+    },
+    {
+        "Name": "Destructive Apparatus",
+        "Value": 1.0
+    },
+    {
+        "Name": "Deflection",
+        "Value": 1.0
+    },
+    {
+        "Name": "Swagger",
+        "Value": 1.0
+    },
+    {
+        "Name": "Gladiator's Perseverance",
+        "Value": 1.0
+    },
+    {
+        "Name": "Indomitable Army",
+        "Value": 1.0
+    },
+    {
+        "Name": "Searing Heat",
+        "Value": 1.0
+    },
+    {
+        "Name": "Tempest Blast",
+        "Value": 1.0
+    },
+    {
+        "Name": "Marked for Death",
+        "Value": 1.0
+    },
+    {
+        "Name": "Fangs of Frost",
+        "Value": 1.0
+    },
+    {
+        "Name": "Taste for Blood",
+        "Value": 1.0
+    },
+    {
+        "Name": "Life Raker",
+        "Value": 1.0
+    },
+    {
+        "Name": "Lethality",
+        "Value": 1.0
+    },
+    {
+        "Name": "Hunter's Gambit",
+        "Value": 1.0
+    },
+    {
+        "Name": "Perfectionist",
+        "Value": 1.0
+    },
+    {
+        "Name": "Forces of Nature",
+        "Value": 1.0
+    },
+    {
+        "Name": "Winter Spirit",
+        "Value": 1.0
+    },
+    {
+        "Name": "Primeval Force",
+        "Value": 1.0
+    },
+    {
+        "Name": "Arcing Blows",
+        "Value": 1.0
+    },
+    {
+        "Name": "Force Shaper",
+        "Value": 1.0
+    },
+    {
+        "Name": "Devastating Devices",
+        "Value": 1.0
+    },
+    {
+        "Name": "Explosive Elements",
+        "Value": 1.0
+    },
+    {
+        "Name": "Backstabbing",
+        "Value": 1.0
+    },
+    {
+        "Name": "Fatal Toxins",
+        "Value": 1.0
+    },
+    {
+        "Name": "High Explosives",
+        "Value": 1.0
+    },
+    {
+        "Name": "Master Fletcher",
+        "Value": 1.0
+    },
+    {
+        "Name": "King of the Hill",
+        "Value": 1.0
+    },
+    {
+        "Name": "Tireless",
+        "Value": -2.0
+    },
+    {
+        "Name": "Your Smothering Towers also grant 20% reduced Movement Speed",
+        "Value": -2.0
+    },
+    {
+        "Name": "Crackling Speed",
+        "Value": -4.333333333333333
+    },
+    {
+        "Name": "Minions summoned by Your Sentinel Towers have 50% increased Life",
+        "Value": -5.5
+    },
+    {
+        "Name": "One with the River",
+        "Value": -6.0
+    },
+    {
+        "Name": "Prism Weave",
+        "Value": -6.0
+    },
+    {
+        "Name": "Bravery",
+        "Value": -6.0
+    },
+    {
+        "Name": "Vigour",
+        "Value": -6.0
+    },
+    {
+        "Name": "Window of Opportunity",
+        "Value": -6.0
+    },
+    {
+        "Name": "Avatar of the Hunt",
+        "Value": -6.0
+    },
+    {
+        "Name": "Resourcefulness",
+        "Value": -6.0
+    },
+    {
+        "Name": "Volatile Mines",
+        "Value": -6.0
+    },
+    {
+        "Name": "Fatal Blade",
+        "Value": -6.0
+    },
+    {
+        "Name": "Way of the Warrior",
+        "Value": -6.666666666666667
+    },
+    {
+        "Name": "Your Fireball Towers fire an additional 2 Projectiles",
+        "Value": -8.0
+    },
+    {
+        "Name": "Your Flamethrower Towers have 15% increased Cast Speed",
+        "Value": -8.0
+    },
+    {
+        "Name": "Minions summoned by Your Summoning Towers have 25% increased Movement Speed",
+        "Value": -8.0
+    },
+    {
+        "Name": "Minions summoned by Your Sentinel Towers have 25% increased Movement Speed",
+        "Value": -8.0
+    },
+    {
+        "Name": "Cages created by Your Glacial Cage Towers are 20% larger",
+        "Value": -8.0
+    },
+    {
+        "Name": "Your Shock Nova Towers deal full damage to Lightning Enemies",
+        "Value": -8.0
+    },
+    {
+        "Name": "Your Meteor Towers drop an additional Meteor",
+        "Value": -8.0
+    },
+    {
+        "Name": "Minions summoned by Your Scout Towers have 25% increased Movement Speed",
+        "Value": -8.0
+    },
+    {
+        "Name": "Enemies inside Glacial Cage take 10% increased Damage",
+        "Value": -8.0
+    },
+    {
+        "Name": "Skull Cracking",
+        "Value": -8.333333333333334
+    },
+    {
+        "Name": "Blacksmith's Clout",
+        "Value": -8.333333333333334
+    },
+    {
+        "Name": "Serpent Stance",
+        "Value": -8.333333333333334
+    },
+    {
+        "Name": "Defiled Forces",
+        "Value": -8.333333333333334
+    },
+    {
+        "Name": "Master Sapper",
+        "Value": -8.333333333333334
+    },
+    {
+        "Name": "Feller of Foes",
+        "Value": -8.333333333333334
+    },
+    {
+        "Name": "Adder's Touch",
+        "Value": -8.333333333333334
+    },
+    {
+        "Name": "Careful Conservationist",
+        "Value": -8.333333333333334
+    },
+    {
+        "Name": "Claws of the Hawk",
+        "Value": -8.333333333333334
+    },
+    {
+        "Name": "Disciple of the Forbidden",
+        "Value": -9.0
+    },
+    {
+        "Name": "Your Lightning Storm Towers have 25% reduced Impact Delay",
+        "Value": -9.0
+    },
+    {
+        "Name": "Divine Wrath",
+        "Value": -10.0
+    },
+    {
+        "Name": "Juggernaut",
+        "Value": -10.0
+    },
+    {
+        "Name": "Explosive Impact",
+        "Value": -10.0
+    },
+    {
+        "Name": "Strong Arm",
+        "Value": -10.0
+    },
+    {
+        "Name": "Diamond Skin",
+        "Value": -10.0
+    },
+    {
+        "Name": "Dark Arts",
+        "Value": -10.0
+    },
+    {
+        "Name": "Amplify",
+        "Value": -10.0
+    },
+    {
+        "Name": "Deep Breaths",
+        "Value": -10.0
+    },
+    {
+        "Name": "Retribution",
+        "Value": -10.0
+    },
+    {
+        "Name": "Versatility",
+        "Value": -10.0
+    },
+    {
+        "Name": "Brinkmanship",
+        "Value": -10.0
+    },
+    {
+        "Name": "Eagle Eye",
+        "Value": -10.0
+    },
+    {
+        "Name": "Wrecking Ball",
+        "Value": -10.0
+    },
+    {
+        "Name": "Heart of Darkness",
+        "Value": -10.0
+    },
+    {
+        "Name": "Command of Steel",
+        "Value": -10.0
+    },
+    {
+        "Name": "Admonisher",
+        "Value": -10.0
+    },
+    {
+        "Name": "Seasoned Swordplay",
+        "Value": -10.0
+    },
+    {
+        "Name": "Berserking",
+        "Value": -10.0
+    },
+    {
+        "Name": "Frost Walker",
+        "Value": -10.0
+    },
+    {
+        "Name": "Potency of Will",
+        "Value": -10.0
+    },
+    {
+        "Name": "Destroyer",
+        "Value": -10.0
+    },
+    {
+        "Name": "Surveillance",
+        "Value": -10.0
+    },
+    {
+        "Name": "Blast Radius",
+        "Value": -10.0
+    },
+    {
+        "Name": "Disciple of the Unyielding",
+        "Value": -10.0
+    },
+    {
+        "Name": "Retaliation",
+        "Value": -10.0
+    },
+    {
+        "Name": "Titanic Impacts",
+        "Value": -10.0
+    },
+    {
+        "Name": "Hired Killer",
+        "Value": -10.0
+    },
+    {
+        "Name": "Melding",
+        "Value": -10.0
+    },
+    {
+        "Name": "Blade Barrier",
+        "Value": -10.0
+    },
+    {
+        "Name": "Dazzling Strikes",
+        "Value": -10.0
+    },
+    {
+        "Name": "Throatseeker",
+        "Value": -10.0
+    },
+    {
+        "Name": "Tolerance",
+        "Value": -10.0
+    },
+    {
+        "Name": "Dire Torment",
+        "Value": -10.0
+    },
+    {
+        "Name": "Mysticism",
+        "Value": -10.0
+    },
+    {
+        "Name": "Ballistics",
+        "Value": -10.0
+    },
+    {
+        "Name": "Sleight of Hand",
+        "Value": -10.0
+    },
+    {
+        "Name": "Longshot",
+        "Value": -10.0
+    },
+    {
+        "Name": "Adjacent Animosity",
+        "Value": -10.0
+    },
+    {
+        "Name": "Serpentine Spellslinger",
+        "Value": -10.0
+    },
+    {
+        "Name": "Fleetfoot",
+        "Value": -10.0
+    },
+    {
+        "Name": "Soul Thief",
+        "Value": -10.0
+    },
+    {
+        "Name": "Split Shot",
+        "Value": -10.0
+    },
+    {
+        "Name": "Vengeant Cascade",
+        "Value": -10.0
+    },
+    {
+        "Name": "Righteous Army",
+        "Value": -10.666666666666666
+    },
+    {
+        "Name": "Magmatic Strikes",
+        "Value": -10.666666666666666
+    },
+    {
+        "Name": "Gravepact",
+        "Value": -10.666666666666666
+    },
+    {
+        "Name": "Acrimony",
+        "Value": -10.666666666666666
+    },
+    {
+        "Name": "Corruption",
+        "Value": -10.666666666666666
+    },
+    {
+        "Name": "Last Rites",
+        "Value": -10.666666666666666
+    },
+    {
+        "Name": "Ribcage Crusher",
+        "Value": -10.666666666666666
+    },
+    {
+        "Name": "Disintegration",
+        "Value": -10.666666666666666
+    },
+    {
+        "Name": "Expert Hunter",
+        "Value": -10.666666666666666
+    },
+    {
+        "Name": "Your Smothering Towers have 25% increased Range",
+        "Value": -11.5
+    },
+    {
+        "Name": "Your Seismic Towers have 25% increased Range",
+        "Value": -11.5
+    },
+    {
+        "Name": "Minions summoned by Your Scout Towers inflict Malediction on Hit",
+        "Value": -11.5
+    },
+    {
+        "Name": "Your Temporal Towers have 25% increased Range",
+        "Value": -11.5
+    },
+    {
+        "Name": "Your Empowering Towers have 25% increased Range",
+        "Value": -11.5
+    },
+    {
+        "Name": "Your Chilling Towers have 25% increased Duration",
+        "Value": -11.5
+    },
+    {
+        "Name": "Your Stone Gaze Cage Towers have 25% increased Range",
+        "Value": -11.5
+    },
+    {
+        "Name": "Your Freezebolt Towers fire 2 additional Projectiles",
+        "Value": -11.5
+    },
+    {
+        "Name": "Your Imbuing Towers have 25% increased Range",
+        "Value": -11.5
+    },
+    {
+        "Name": "Divine Judgement",
+        "Value": -12.333333333333334
+    },
+    {
+        "Name": "Divine Fury",
+        "Value": -12.333333333333334
+    },
+    {
+        "Name": "Cleaving",
+        "Value": -12.333333333333334
+    },
+    {
+        "Name": "Aggressive Bastion",
+        "Value": -12.333333333333334
+    },
+    {
+        "Name": "Safeguard",
+        "Value": -12.333333333333334
+    },
+    {
+        "Name": "Combat Stamina",
+        "Value": -12.333333333333334
+    },
+    {
+        "Name": "Sanctity",
+        "Value": -12.333333333333334
+    },
+    {
+        "Name": "Warrior's Blood",
+        "Value": -12.333333333333334
+    },
+    {
+        "Name": "Arcane Guarding",
+        "Value": -12.333333333333334
+    },
+    {
+        "Name": "Storm Weaver",
+        "Value": -12.333333333333334
+    },
+    {
+        "Name": "Enigmatic Reach",
+        "Value": -12.333333333333334
+    },
+    {
+        "Name": "Essence Extraction",
+        "Value": -12.333333333333334
+    },
+    {
+        "Name": "Brand Equity",
+        "Value": -12.333333333333334
+    },
+    {
+        "Name": "Rampart",
+        "Value": -12.333333333333334
+    },
+    {
+        "Name": "Mental Rapidity",
+        "Value": -12.333333333333334
+    },
+    {
+        "Name": "Forethought",
+        "Value": -12.333333333333334
+    },
+    {
+        "Name": "Fire Walker",
+        "Value": -12.333333333333334
+    },
+    {
+        "Name": "Lightning Walker",
+        "Value": -12.333333333333334
+    },
+    {
+        "Name": "Adamant",
+        "Value": -12.333333333333334
+    },
+    {
+        "Name": "Infused Flesh",
+        "Value": -12.333333333333334
+    },
+    {
+        "Name": "Defiance",
+        "Value": -12.333333333333334
+    },
+    {
+        "Name": "Annihilation",
+        "Value": -12.333333333333334
+    },
+    {
+        "Name": "Arcanist's Dominion",
+        "Value": -12.333333333333334
+    },
+    {
+        "Name": "Dervish",
+        "Value": -12.333333333333334
+    },
+    {
+        "Name": "Revelry",
+        "Value": -12.333333333333334
+    },
+    {
+        "Name": "Exceptional Performance",
+        "Value": -12.333333333333334
+    },
+    {
+        "Name": "Testudo",
+        "Value": -12.333333333333334
+    },
+    {
+        "Name": "Assured Strike",
+        "Value": -12.333333333333334
+    },
+    {
+        "Name": "True Strike",
+        "Value": -12.333333333333334
+    },
+    {
+        "Name": "Graceful Assault",
+        "Value": -12.333333333333334
+    },
+    {
+        "Name": "Ambidexterity",
+        "Value": -12.333333333333334
+    },
+    {
+        "Name": "Undertaker",
+        "Value": -12.333333333333334
+    },
+    {
+        "Name": "Finesse",
+        "Value": -12.333333333333334
+    },
+    {
+        "Name": "Conjured Barrier",
+        "Value": -12.333333333333334
+    },
+    {
+        "Name": "Primal Spirit",
+        "Value": -12.333333333333334
+    },
+    {
+        "Name": "Trickery",
+        "Value": -12.333333333333334
+    },
+    {
+        "Name": "Coordination",
+        "Value": -12.333333333333334
+    },
+    {
+        "Name": "Field Medicine",
+        "Value": -12.333333333333334
+    },
+    {
+        "Name": "One With Nature",
+        "Value": -12.333333333333334
+    },
+    {
+        "Name": "Twin Terrors",
+        "Value": -12.333333333333334
+    },
+    {
+        "Name": "Will of Blades",
+        "Value": -12.333333333333334
+    },
+    {
+        "Name": "Essence Sap",
+        "Value": -12.333333333333334
+    },
+    {
+        "Name": "Acuity",
+        "Value": -12.333333333333334
+    },
+    {
+        "Name": "Mark the Prey",
+        "Value": -12.333333333333334
+    },
+    {
+        "Name": "Razor's Edge",
+        "Value": -14.0
+    },
+    {
+        "Name": "Slaughter",
+        "Value": -14.0
+    },
+    {
+        "Name": "Smashing Strikes",
+        "Value": -14.0
+    },
+    {
+        "Name": "Whirling Barrier",
+        "Value": -14.0
+    },
+    {
+        "Name": "Bone Breaker",
+        "Value": -14.0
+    },
+    {
+        "Name": "Redemption",
+        "Value": -14.0
+    },
+    {
+        "Name": "Surge of Vigour",
+        "Value": -14.0
+    },
+    {
+        "Name": "Powerful Bond",
+        "Value": -14.0
+    },
+    {
+        "Name": "Galvanic Hammer",
+        "Value": -14.0
+    },
+    {
+        "Name": "Pain Forger",
+        "Value": -14.0
+    },
+    {
+        "Name": "Harpooner",
+        "Value": -14.0
+    },
+    {
+        "Name": "Shamanistic Fury",
+        "Value": -14.0
+    },
+    {
+        "Name": "Primal Manifestation",
+        "Value": -14.0
+    },
+    {
+        "Name": "Cannibalistic Rite",
+        "Value": -14.0
+    },
+    {
+        "Name": "Escalation",
+        "Value": -14.0
+    },
+    {
+        "Name": "Arsonist",
+        "Value": -14.0
+    },
+    {
+        "Name": "Utmost Might",
+        "Value": -14.0
+    },
+    {
+        "Name": "Cauterisation",
+        "Value": -14.0
+    },
+    {
+        "Name": "Spinecruncher",
+        "Value": -14.0
+    },
+    {
+        "Name": "Fearsome Force",
+        "Value": -14.0
+    },
+    {
+        "Name": "Expertise",
+        "Value": -14.0
+    },
+    {
+        "Name": "Ancestral Knowledge",
+        "Value": -14.0
+    },
+    {
+        "Name": "Butchery",
+        "Value": -14.0
+    },
+    {
+        "Name": "Warrior Training",
+        "Value": -14.0
+    },
+    {
+        "Name": "Spiked Bulwark",
+        "Value": -14.0
+    },
+    {
+        "Name": "Robust",
+        "Value": -14.0
+    },
+    {
+        "Name": "Sanctuary",
+        "Value": -14.0
+    },
+    {
+        "Name": "Steelwood Stance",
+        "Value": -14.0
+    },
+    {
+        "Name": "Divine Fervour",
+        "Value": -14.0
+    },
+    {
+        "Name": "Holy Dominion",
+        "Value": -14.0
+    },
+    {
+        "Name": "Light of Divinity",
+        "Value": -14.0
+    },
+    {
+        "Name": "Harvester of Foes",
+        "Value": -14.0
+    },
+    {
+        "Name": "Empowered Bond",
+        "Value": -14.0
+    },
+    {
+        "Name": "Trial of the Faith",
+        "Value": -14.0
+    },
+    {
+        "Name": "Righteous Decree",
+        "Value": -14.0
+    },
+    {
+        "Name": "Righteous Fury",
+        "Value": -14.0
+    },
+    {
+        "Name": "Fending",
+        "Value": -14.0
+    },
+    {
+        "Name": "Precision",
+        "Value": -14.0
+    },
+    {
+        "Name": "Sacrifice",
+        "Value": -14.0
+    },
+    {
+        "Name": "Kinetic Impacts",
+        "Value": -14.0
+    },
+    {
+        "Name": "Unfaltering",
+        "Value": -14.0
+    },
+    {
+        "Name": "Invigorating Blaze",
+        "Value": -14.0
+    },
+    {
+        "Name": "Agility",
+        "Value": -14.0
+    },
+    {
+        "Name": "Bannerman",
+        "Value": -14.0
+    },
+    {
+        "Name": "Might",
+        "Value": -14.0
+    },
+    {
+        "Name": "Proficiency",
+        "Value": -14.0
+    },
+    {
+        "Name": "Bastion Breaker",
+        "Value": -14.0
+    },
+    {
+        "Name": "Hard Knocks",
+        "Value": -14.0
+    },
+    {
+        "Name": "Explosive Runes",
+        "Value": -14.0
+    },
+    {
+        "Name": "Executioner",
+        "Value": -14.0
+    },
+    {
+        "Name": "Martial Experience",
+        "Value": -14.0
+    },
+    {
+        "Name": "Essence Infusion",
+        "Value": -14.0
+    },
+    {
+        "Name": "Brink of Death",
+        "Value": -14.0
+    },
+    {
+        "Name": "Inspiring Bond",
+        "Value": -14.0
+    },
+    {
+        "Name": "Dynamo",
+        "Value": -14.0
+    },
+    {
+        "Name": "Hatchet Master",
+        "Value": -14.0
+    },
+    {
+        "Name": "Relentless",
+        "Value": -14.0
+    },
+    {
+        "Name": "Dreamer",
+        "Value": -14.0
+    },
+    {
+        "Name": "Ash, Frost and Storm",
+        "Value": -14.0
+    },
+    {
+        "Name": "Path of the Warrior",
+        "Value": -14.0
+    },
+    {
+        "Name": "Shaper",
+        "Value": -14.0
+    },
+    {
+        "Name": "Decay Ward",
+        "Value": -14.0
+    },
+    {
+        "Name": "Deep Thoughts",
+        "Value": -14.0
+    },
+    {
+        "Name": "Battle Rouse",
+        "Value": -14.0
+    },
+    {
+        "Name": "Ironwood",
+        "Value": -14.0
+    },
+    {
+        "Name": "Totemic Zeal",
+        "Value": -14.0
+    },
+    {
+        "Name": "Cloth and Chain",
+        "Value": -14.0
+    },
+    {
+        "Name": "Enigmatic Defence",
+        "Value": -14.0
+    },
+    {
+        "Name": "Deep Wisdom",
+        "Value": -14.0
+    },
+    {
+        "Name": "Practical Application",
+        "Value": -14.0
+    },
+    {
+        "Name": "Path of the Savant",
+        "Value": -14.0
+    },
+    {
+        "Name": "Sentinel",
+        "Value": -14.0
+    },
+    {
+        "Name": "Discord Artisan",
+        "Value": -14.0
+    },
+    {
+        "Name": "Mystic Bulwark",
+        "Value": -14.0
+    },
+    {
+        "Name": "Prodigal Perfection",
+        "Value": -14.0
+    },
+    {
+        "Name": "Potent Connections",
+        "Value": -14.0
+    },
+    {
+        "Name": "Fury Bolts",
+        "Value": -14.0
+    },
+    {
+        "Name": "Thrill Killer",
+        "Value": -14.0
+    },
+    {
+        "Name": "Arcane Focus",
+        "Value": -14.0
+    },
+    {
+        "Name": "Wandslinger",
+        "Value": -14.0
+    },
+    {
+        "Name": "Harrier",
+        "Value": -14.0
+    },
+    {
+        "Name": "Path of the Hunter",
+        "Value": -14.0
+    },
+    {
+        "Name": "Deadly Draw",
+        "Value": -14.0
+    },
+    {
+        "Name": "Heavy Draw",
+        "Value": -14.0
+    },
+    {
+        "Name": "Hardened Scars",
+        "Value": -14.0
+    },
+    {
+        "Name": "Grave Intentions",
+        "Value": -14.0
+    },
+    {
+        "Name": "Vampirism",
+        "Value": -14.0
+    },
+    {
+        "Name": "Static Blows",
+        "Value": -14.0
+    },
+    {
+        "Name": "Spirit Void",
+        "Value": -14.0
+    },
+    {
+        "Name": "Dance of Blades",
+        "Value": -14.0
+    },
+    {
+        "Name": "Nimbleness",
+        "Value": -14.0
+    },
+    {
+        "Name": "Burning Brutality",
+        "Value": -14.0
+    },
+    {
+        "Name": "Forceful Skewering",
+        "Value": -14.0
+    },
+    {
+        "Name": "Utmost Intellect",
+        "Value": -14.0
+    },
+    {
+        "Name": "Courage",
+        "Value": -14.0
+    },
+    {
+        "Name": "Light Eater",
+        "Value": -14.0
+    },
+    {
+        "Name": "Wisdom of the Glade",
+        "Value": -14.0
+    },
+    {
+        "Name": "Weathered Hunter",
+        "Value": -14.0
+    },
+    {
+        "Name": "Beef",
+        "Value": -14.0
+    },
+    {
+        "Name": "Alacrity",
+        "Value": -14.0
+    },
+    {
+        "Name": "Elder Power",
+        "Value": -14.0
+    },
+    {
+        "Name": "Fusillade",
+        "Value": -14.0
+    },
+    {
+        "Name": "Glacial Cage",
+        "Value": -14.0
+    },
+    {
+        "Name": "Winter's Embrace",
+        "Value": -14.0
+    },
+    {
+        "Name": "Freedom of Movement",
+        "Value": -14.0
+    },
+    {
+        "Name": "Physique",
+        "Value": -14.0
+    },
+    {
+        "Name": "Bladedancer",
+        "Value": -14.0
+    },
+    {
+        "Name": "Efficient Explosives",
+        "Value": -14.0
+    },
+    {
+        "Name": "Farsight",
+        "Value": -14.0
+    },
+    {
+        "Name": "Soul Siphon",
+        "Value": -14.0
+    },
+    {
+        "Name": "Blast Waves",
+        "Value": -14.0
+    },
+    {
+        "Name": "Excess Sustenance",
+        "Value": -14.0
+    },
+    {
+        "Name": "Replenishing Remedies",
+        "Value": -14.0
+    },
+    {
+        "Name": "High Voltage",
+        "Value": -14.0
+    },
+    {
+        "Name": "Utmost Swiftness",
+        "Value": -14.0
+    },
+    {
+        "Name": "Toxic Strikes",
+        "Value": -14.0
+    },
+    {
+        "Name": "Aspect of the Eagle",
+        "Value": -14.0
+    },
+    {
+        "Name": "Entrench",
+        "Value": -14.0
+    },
+    {
+        "Name": "Quickstep",
+        "Value": -14.0
+    },
+    {
+        "Name": "Saboteur",
+        "Value": -14.0
+    },
+    {
+        "Name": "Elemental Focus",
+        "Value": -14.0
+    },
+    {
+        "Name": "Entropy",
+        "Value": -14.0
+    },
+    {
+        "Name": "Successive Detonations",
+        "Value": -14.0
+    },
+    {
+        "Name": "Instinct",
+        "Value": -14.0
+    },
+    {
+        "Name": "Prowess",
+        "Value": -14.0
+    },
+    {
+        "Name": "Thief's Craft",
+        "Value": -14.0
+    },
+    {
+        "Name": "Weapon Artistry",
+        "Value": -14.0
+    },
+    {
+        "Name": "Poisonous Fangs",
+        "Value": -14.0
+    },
+    {
+        "Name": "Aspect of the Lynx",
+        "Value": -14.0
+    },
+    {
+        "Name": "Intuition",
+        "Value": -14.0
+    },
+    {
+        "Name": "Coldhearted Calculation",
+        "Value": -14.0
+    },
+    {
+        "Name": "Fangs of the Viper",
+        "Value": -14.0
+    },
+    {
+        "Name": "Expeditious Munitions",
+        "Value": -14.0
+    },
+    {
+        "Name": "Overprepared",
+        "Value": -14.0
+    },
+    {
+        "Name": "Flash Freeze",
+        "Value": -14.0
+    },
+    {
+        "Name": "Silent Steps",
+        "Value": -14.0
+    },
+    {
+        "Name": "Clever Thief",
+        "Value": -14.0
+    },
+    {
+        "Name": "Mind Drinker",
+        "Value": -14.0
+    },
+    {
+        "Name": "Relentless Pursuit",
+        "Value": -14.0
+    },
+    {
+        "Name": "Heartseeker",
+        "Value": -14.0
+    },
+    {
+        "Name": "From the Shadows",
+        "Value": -14.0
+    },
+    {
+        "Name": "Circle of Life",
+        "Value": -14.0
+    },
+    {
+        "Name": "Depth Perception",
+        "Value": -14.0
+    },
+    {
+        "Name": "Flaying",
+        "Value": -14.0
+    },
+    {
+        "Name": "Claws of the Magpie",
+        "Value": -14.0
+    },
+    {
+        "Name": "Clever Construction",
+        "Value": -14.0
+    },
+    {
+        "Name": "Unstable Munitions",
+        "Value": -14.0
+    },
+    {
+        "Name": "Your Chilling Towers deal 25% increased Damage",
+        "Value": -14.0
+    },
+    {
+        "Name": "Your Meteor Towers create Burning Ground for 3 seconds on Hit",
+        "Value": -14.0
+    },
+    {
+        "Name": "Your Meteor Towers deal 25% increased Damage",
+        "Value": -14.0
+    },
+    {
+        "Name": "Your Lightning Storm Towers deal 25% increased Damage",
+        "Value": -14.0
+    },
+    {
+        "Name": "Your Meteor Towers always Stun",
+        "Value": -14.0
+    },
+    {
+        "Name": "Minions summoned by Your Summoning Towers have 25% increased Damage",
+        "Value": -14.0
+    },
+    {
+        "Name": "Your Arc Towers have 20% chance to inflict Sap",
+        "Value": -14.0
+    },
+    {
+        "Name": "Your Chilling Towers have 25% increased effect of Chill",
+        "Value": -14.0
+    },
+    {
+        "Name": "Your Scout Towers have 25% increased Range",
+        "Value": -14.0
+    },
+    {
+        "Name": "Your Freezebolt Towers have 20% chance to inflict Brittle",
+        "Value": -14.0
+    },
+    {
+        "Name": "Your Flamethrower Towers have 25% increased Range",
+        "Value": -14.0
+    },
+    {
+        "Name": "Minions summoned by Your Sentinel Towers Leech 2% of Damage as Life",
+        "Value": -14.0
+    },
+    {
+        "Name": "Your Fireball Towers deal 25% increased Damage",
+        "Value": -14.0
+    },
+    {
+        "Name": "Your Summoning Towers have 25% increased Range",
+        "Value": -14.0
+    },
+    {
+        "Name": "Your Lightning Storm Towers have 25% increased Range",
+        "Value": -14.0
+    },
+    {
+        "Name": "Your Freezebolt Tower deal full damage to Cold Enemies",
+        "Value": -14.0
+    },
+    {
+        "Name": "Your Stone Gaze Towers have 25% increased Duration",
+        "Value": -14.0
+    },
+    {
+        "Name": "Enemies Petrified by Your Stone Gaze Towers take 10% increased Damage",
+        "Value": -14.0
+    },
+    {
+        "Name": "Your Imbuing Towers also grant Onslaught",
+        "Value": -14.0
+    },
+    {
+        "Name": "Your Temporal Towers also grant Stun Immunity",
+        "Value": -14.0
+    },
+    {
+        "Name": "Your Fireball Towers have 15% increased Cast Speed",
+        "Value": -14.0
+    },
+    {
+        "Name": "Your Flamethrower Towers have 20% chance to inflict Scorch",
+        "Value": -14.0
+    },
+    {
+        "Name": "Your Flamethrower Towers deal full damage to Fire Enemies",
+        "Value": -14.0
+    },
+    {
+        "Name": "Your Chilling Towers have 25% increased Range",
+        "Value": -14.0
+    },
+    {
+        "Name": "Your Smothering Towers also grant 10% chance to be Frozen, Shocked and Ignited",
+        "Value": -14.0
+    },
+    {
+        "Name": "Your Meteor Towers have 25% increased Range",
+        "Value": -14.0
+    },
+    {
+        "Name": "Your Shock Nova Towers have 25% increased Range",
+        "Value": -14.0
+    },
+    {
+        "Name": "Your Arc Towers deal 25% increased Damage",
+        "Value": -14.0
+    },
+    {
+        "Name": "Minions summoned by Your Sentinel Towers have 25% increased Damage",
+        "Value": -14.0
+    },
+    {
+        "Name": "Minions summoned by Your Scout Towers have 25% increased Damage",
+        "Value": -14.0
+    },
+    {
+        "Name": "Your Empowering Towers have 25% increased Effect",
+        "Value": -14.0
+    },
+    {
+        "Name": "Your Seismic Towers deal 25% increased Damage",
+        "Value": -14.0
+    },
+    {
+        "Name": "Your Freezebolt Towers deal 25% increased Damage",
+        "Value": -14.0
+    },
+    {
+        "Name": "Your Flamethrower Towers deal 25% increased Damage",
+        "Value": -14.0
+    },
+    {
+        "Name": "Your Shock Nova Towers deal 25% increased Damage",
+        "Value": -14.0
+    },
+    {
+        "Name": "Your Glacial Cage Towers have 25% increased Range",
+        "Value": -14.0
+    },
+    {
+        "Name": "Your Freezebolt Towers have 25% increased Range",
+        "Value": -14.0
+    },
+    {
+        "Name": "Your Glacial Cage Towers have 25% increased Duration",
+        "Value": -14.0
+    },
+    {
+        "Name": "Your Fireball Towers have 25% increased Range",
+        "Value": -14.0
+    },
+    {
+        "Name": "Your Arc Towers have 25% increased Range",
+        "Value": -14.0
+    },
+    {
+        "Name": "Your Temporal Towers have 25% increased Effect",
+        "Value": -14.0
+    },
+    {
+        "Name": "Your Sentinel Towers have 25% increased Range",
+        "Value": -14.0
+    },
+    {
+        "Name": "Your Smothering Towers have 25% increased Effect",
+        "Value": -14.0
+    },
+    {
+        "Name": "Your Glacial Cage Towers have 20% increased Cooldown Recovery Rate",
+        "Value": -14.0
+    },
+    {
+        "Name": "Your Imbuing Towers have 25% increased Effect",
+        "Value": -14.0
+    }
+]
